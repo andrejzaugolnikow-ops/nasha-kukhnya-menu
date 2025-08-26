@@ -1,418 +1,472 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-08-26T11:05:09.986Z",
+  "updatedAt": "2025-08-26T11:20:14.837Z",
   "sheets": {
     "Menu": {
-      "rows": 68,
+      "rows": 66,
       "data": [
         {
           "Категория": "Меню",
           "Название": "Delivery",
           "Цена (AED)": 7,
+          "col_4": "Доставка",
           "_rowIndex": 2
         },
         {
           "Категория": "Breakfast",
           "Название": "Syrniki 3 piece",
           "Цена (AED)": 27,
+          "col_4": "Сырники 3 печи",
           "_rowIndex": 3
         },
         {
           "Категория": "Breakfast",
           "Название": "Pancakes with minced meat",
           "Цена (AED)": 18,
+          "col_4": "Блины с фаршем",
           "_rowIndex": 4
         },
         {
           "Категория": "Breakfast",
           "Название": "Oatmeal porridge with fresh berries",
           "Цена (AED)": 18,
+          "col_4": "Овсяная каша со свежими ягодами",
           "_rowIndex": 5
         },
         {
           "Категория": "Breakfast",
           "Название": "Omelette with tomatoes and avocado",
           "Цена (AED)": 12,
+          "col_4": "Омлет с помидорами и авокадо",
           "_rowIndex": 6
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
+          "col_4": "Домашний вяленый лосось",
           "_rowIndex": 7
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
+          "col_4": "Домашний ростбиф",
           "_rowIndex": 8
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
+          "col_4": "Грудка индейки, запеченная с травами",
           "_rowIndex": 9
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
+          "col_4": "Чаша с куриным поке",
           "_rowIndex": 10
         },
         {
           "Категория": "Salads",
           "Название": "Vinaigrette salad",
           "Цена (AED)": 16,
+          "col_4": "Салат винегрет",
           "_rowIndex": 11
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
+          "col_4": "Поке с креветками в миске",
           "_rowIndex": 12
         },
         {
           "Категория": "Soups",
           "Название": "Borsch",
           "Цена (AED)": 24,
+          "col_4": "Борщ",
           "_rowIndex": 13
         },
         {
           "Категория": "Side dishes",
           "Название": "Mashed potato",
           "Цена (AED)": 16,
+          "col_4": "Картофельное пюре",
           "_rowIndex": 14
         },
         {
           "Категория": "Side dishes",
           "Название": "Buckwheat with mushrooms",
           "Цена (AED)": 12,
+          "col_4": "Гречка с грибами",
           "_rowIndex": 15
         },
         {
           "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 8,
+          "col_4": "Паста с топленым маслом",
           "_rowIndex": 16
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
+          "col_4": "рис басмати",
           "_rowIndex": 17
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 23,
+          "col_4": "Овощи на гриле",
           "_rowIndex": 18
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 20,
+          "col_4": "Овощи по-гречески",
           "_rowIndex": 19
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
+          "col_4": "Пирожок с мясом 1 шт.",
           "_rowIndex": 20
         },
         {
           "Категория": "Bakery",
           "Название": "Sochnik shortbread cake stuffed cottage cheese",
           "Цена (AED)": 11,
+          "col_4": "Сочник песочный пирог с творогом",
           "_rowIndex": 21
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
+          "col_4": "Домашняя творожная Ватрушка",
           "_rowIndex": 22
         },
         {
           "Категория": "Bakery",
           "Название": "Cinnabon",
           "Цена (AED)": 8,
+          "col_4": "Синнабон",
           "_rowIndex": 23
         },
         {
           "Категория": "Bakery",
           "Название": "Pizza with chicken and mushrooms",
           "Цена (AED)": 10,
+          "col_4": "Пицца с курицей и грибами",
           "_rowIndex": 24
         },
         {
           "Категория": "Bakery",
           "Название": "Pizza with beef and turkey",
           "Цена (AED)": 10,
+          "col_4": "Пицца с говядиной и индейкой",
           "_rowIndex": 25
         },
         {
           "Категория": "Bakery",
           "Название": "Pizza of vegetables",
           "Цена (AED)": 12,
+          "col_4": "Пицца с овощами",
           "_rowIndex": 26
         },
         {
           "Категория": "Bakery",
           "Название": "Pizza Margarita",
           "Цена (AED)": 12,
+          "col_4": "Пицца Маргарита",
           "_rowIndex": 27
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
+          "col_4": "Медовик трайфл",
           "_rowIndex": 28
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Napoleon trifle",
           "Цена (AED)": 14,
+          "col_4": "Наполеоновский пустяк",
           "_rowIndex": 29
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Panna Cotta",
           "Цена (AED)": 14,
+          "col_4": "Панна Котта",
           "_rowIndex": 30
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
+          "col_4": "Миндальное печенье",
           "_rowIndex": 31
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Tiramisu",
           "Цена (AED)": 23,
+          "col_4": "Тирамису",
           "_rowIndex": 32
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Panna Cotta Strawbery",
           "Цена (AED)": 14,
+          "col_4": "Клубничная панна-котта",
           "_rowIndex": 33
         },
         {
           "Категория": "Bread",
           "Название": "Ciabatta 1 pcs",
           "Цена (AED)": 4,
+          "col_4": "Чиабатта 1 шт.",
           "_rowIndex": 34
         },
         {
           "Категория": "Bread",
           "Название": "Small bun 1 pcs",
           "Цена (AED)": 2,
+          "col_4": "Маленькая булочка 1 шт.",
           "_rowIndex": 35
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
+          "col_4": "Паровые куриные котлеты",
           "_rowIndex": 36
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
+          "col_4": "Куриные жареные котлеты",
           "_rowIndex": 37
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled chicken with rosemary",
           "Цена (AED)": 18,
+          "col_4": "Курица-гриль с розмарином",
           "_rowIndex": 38
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 12,
+          "col_4": "Жареные куриные бедра в меду и лимоне",
           "_rowIndex": 39
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 14,
+          "col_4": "Отбивная из индейки на пару с цуккини",
           "_rowIndex": 40
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef Stroganoff",
           "Цена (AED)": 37,
+          "col_4": "Бефстроганов",
           "_rowIndex": 41
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 22,
+          "col_4": "Говяжьи фрикадельки в томатном соусе 3 шт.",
           "_rowIndex": 42
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 35,
+          "col_4": "Крабовый пирог 3 шт.",
           "_rowIndex": 43
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Grilled salmon in teriyaki sauce",
           "Цена (AED)": 34,
+          "col_4": "Лосось на гриле в соусе терияки",
           "_rowIndex": 44
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Steamed atlantic salmon back",
           "Цена (AED)": 32,
+          "col_4": "Спинка атлантического лосося на пару",
           "_rowIndex": 45
         },
         {
           "Категория": "Beverages",
           "Название": "Dried fruit compot",
           "Цена (AED)": 7,
+          "col_4": "Компот из сухофруктов",
           "_rowIndex": 46
         },
         {
           "Категория": "Beverages",
           "Название": "Berries mors homemade",
           "Цена (AED)": 11,
+          "col_4": "Ягодный морс домашнего приготовления",
           "_rowIndex": 47
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola",
           "Цена (AED)": 7,
+          "col_4": "Кока-Кола",
           "_rowIndex": 48
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite",
           "Цена (AED)": 7,
+          "col_4": "Спрайт",
           "_rowIndex": 49
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite Zero",
           "Цена (AED)": 7,
+          "col_4": "Спрайт Ноль",
           "_rowIndex": 50
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola Zero",
           "Цена (AED)": 7,
+          "col_4": "Coca-Cola Zero",
           "_rowIndex": 51
         },
         {
           "Категория": "Beverages",
           "Название": "Fanta",
           "Цена (AED)": 7,
+          "col_4": "Фанта",
           "_rowIndex": 52
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull",
           "Цена (AED)": 12,
+          "col_4": "Ред Булл",
           "_rowIndex": 53
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull sugar free",
           "Цена (AED)": 13,
+          "col_4": "Red Bull без сахара",
           "_rowIndex": 54
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №1",
           "Цена (AED)": 39,
+          "col_4": "Комбо №1",
           "_rowIndex": 55
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №2",
           "Цена (AED)": 39,
+          "col_4": "Комбо №2",
           "_rowIndex": 56
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №3",
           "Цена (AED)": 39,
+          "col_4": "Комбо №3",
           "_rowIndex": 57
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo 5",
           "Цена (AED)": 39,
+          "col_4": "Комбо 5",
           "_rowIndex": 58
-        },
-        {
-          "Категория": "Meal Plans",
-          "Название": "Meal plan \"Slim and Healthy\" 5 days",
-          "Цена (AED)": 495,
-          "_rowIndex": 59
-        },
-        {
-          "Категория": "Meal Plans",
-          "Название": "Meal plan Well-fed and Happy 5 days",
-          "Цена (AED)": 495,
-          "_rowIndex": 60
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 8,
-          "_rowIndex": 61
+          "col_4": "Квашеная капуста",
+          "_rowIndex": 59
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 8,
-          "_rowIndex": 62
+          "col_4": "Бабушкины соленые огурцы",
+          "_rowIndex": 60
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 8,
-          "_rowIndex": 63
+          "col_4": "Салат из корейской моркови",
+          "_rowIndex": 61
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 64
+          "col_4": "Замороженные куриные жареные котлеты 4 шт.",
+          "_rowIndex": 62
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 65
+          "col_4": "Замороженные паровые куриные котлеты 4 шт.",
+          "_rowIndex": 63
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 66
+          "col_4": "Замороженные сырники 9 штук",
+          "_rowIndex": 64
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 67
+          "col_4": "Сметана",
+          "_rowIndex": 65
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 68
+          "col_4": "Мед",
+          "_rowIndex": 66
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 69
+          "col_4": "Домашнее варенье",
+          "_rowIndex": 67
         }
       ]
     },
