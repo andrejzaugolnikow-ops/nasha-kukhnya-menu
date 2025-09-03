@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-03T10:20:10.687Z",
+  "updatedAt": "2025-09-03T10:35:15.719Z",
   "sheets": {
     "Menu": {
       "rows": 68,
@@ -188,7 +188,7 @@
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 32
         },
