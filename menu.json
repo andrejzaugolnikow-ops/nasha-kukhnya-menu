@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-06T06:50:11.129Z",
+  "updatedAt": "2025-09-06T07:05:15.948Z",
   "sheets": {
     "Menu": {
       "rows": 72,
@@ -25,51 +25,51 @@
           "_rowIndex": 4
         },
         {
-          "Категория": "Breakfast",
-          "Название": "Oatmeal porridge with fresh berries",
-          "Цена (AED)": 18,
-          "_rowIndex": 5
-        },
-        {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 6
+          "_rowIndex": 5
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
-          "_rowIndex": 7
+          "_rowIndex": 6
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Cold dishes",
           "Название": "Chicken sandwich",
           "Цена (AED)": 22,
-          "_rowIndex": 9
+          "_rowIndex": 8
         },
         {
           "Категория": "Cold dishes",
           "Название": "Slightly salted salmon sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
           "Цена (AED)": 24,
+          "_rowIndex": 11
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Caesar salad with grilled chicken",
+          "Цена (AED)": 18,
           "_rowIndex": 12
         },
         {
