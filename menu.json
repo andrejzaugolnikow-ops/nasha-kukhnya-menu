@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-09T06:35:13.964Z",
+  "updatedAt": "2025-09-09T06:50:19.222Z",
   "sheets": {
     "Menu": {
       "rows": 75,
@@ -50,37 +50,37 @@
         },
         {
           "Категория": "Cold dishes",
-          "Название": "House made roastbeef",
-          "Цена (AED)": 19,
+          "Название": "House made cured salmon",
+          "Цена (AED)": 25,
           "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Herb roasted turkey breast",
+          "Название": "House made roastbeef",
           "Цена (AED)": 19,
           "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Chicken sandwich",
-          "Цена (AED)": 22,
+          "Название": "Herb roasted turkey breast",
+          "Цена (AED)": 19,
           "_rowIndex": 11
-        },
-        {
-          "Категория": "Cold dishes",
-          "Название": "Slightly salted salmon sandwich",
-          "Цена (AED)": 27,
-          "_rowIndex": 12
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 13
+          "_rowIndex": 12
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
+          "Цена (AED)": 24,
+          "_rowIndex": 13
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Olivier Salad",
           "Цена (AED)": 24,
           "_rowIndex": 14
         },
@@ -104,8 +104,8 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Vinaigrette salad",
-          "Цена (AED)": 16,
+          "Название": "Dressed herring salad",
+          "Цена (AED)": 24,
           "_rowIndex": 18
         },
         {
@@ -116,134 +116,134 @@
         },
         {
           "Категория": "Salads",
+          "Название": "Tomato salad (Shakarob)",
+          "Цена (AED)": 16,
+          "_rowIndex": 20
+        },
+        {
+          "Категория": "Salads",
           "Название": "Salad with arugula and shrimps",
           "Цена (AED)": 18,
-          "_rowIndex": 20
+          "_rowIndex": 21
         },
         {
           "Категория": "Salads",
           "Название": "Salad with squid",
           "Цена (AED)": 15,
-          "_rowIndex": 21
+          "_rowIndex": 22
         },
         {
           "Категория": "Soups",
           "Название": "Chicken homemade noodle soup",
           "Цена (AED)": 20,
-          "_rowIndex": 22
+          "_rowIndex": 23
         },
         {
           "Категория": "Soups",
           "Название": "Borsch",
           "Цена (AED)": 26,
-          "_rowIndex": 23
+          "_rowIndex": 24
         },
         {
           "Категория": "Soups",
           "Название": "Roasted pumpkin cream soup",
           "Цена (AED)": 24,
-          "_rowIndex": 24
+          "_rowIndex": 25
         },
         {
           "Категория": "Soups",
           "Название": "Okroshka whith kefir",
           "Цена (AED)": 28,
-          "_rowIndex": 25
+          "_rowIndex": 26
         },
         {
           "Категория": "Side dishes",
           "Название": "Mashed potato",
           "Цена (AED)": 16,
-          "_rowIndex": 26
+          "_rowIndex": 27
         },
         {
           "Категория": "Side dishes",
           "Название": "Buckwheat with mushrooms",
           "Цена (AED)": 16,
-          "_rowIndex": 27
+          "_rowIndex": 28
         },
         {
           "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 12,
-          "_rowIndex": 28
+          "_rowIndex": 29
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 29
+          "_rowIndex": 30
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 30
+          "_rowIndex": 31
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 15,
-          "_rowIndex": 31
+          "_rowIndex": 32
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Broccoli with thai chile",
+          "Цена (AED)": 16,
+          "_rowIndex": 33
         },
         {
           "Категория": "Side dishes",
           "Название": "House-made fried potato",
           "Цена (AED)": 20,
-          "_rowIndex": 32
+          "_rowIndex": 34
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 33
+          "_rowIndex": 35
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 34
+          "_rowIndex": 36
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 35
+          "_rowIndex": 37
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 36
+          "_rowIndex": 38
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 37
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Pizza with beef and turkey",
-          "Цена (AED)": 10,
-          "_rowIndex": 38
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Pizza of vegetables",
-          "Цена (AED)": 12,
           "_rowIndex": 39
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Pizza Margarita",
-          "Цена (AED)": 12,
-          "_rowIndex": 40
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
+          "_rowIndex": 40
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Panna Cotta",
+          "Цена (AED)": 14,
           "_rowIndex": 41
         },
         {
