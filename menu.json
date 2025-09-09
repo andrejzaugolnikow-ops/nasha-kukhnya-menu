@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-09T13:05:17.304Z",
+  "updatedAt": "2025-09-09T13:20:12.840Z",
   "sheets": {
     "Menu": {
-      "rows": 70,
+      "rows": 69,
       "data": [
         {
           "Категория": "Меню",
@@ -380,51 +380,45 @@
         },
         {
           "Категория": "Pickles",
-          "Название": "Sauerkraut",
+          "Название": "Grandma's dill pickles",
           "Цена (AED)": 8,
           "_rowIndex": 64
         },
         {
           "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 8,
-          "_rowIndex": 65
-        },
-        {
-          "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 8,
-          "_rowIndex": 66
+          "_rowIndex": 65
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 67
+          "_rowIndex": 66
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 68
+          "_rowIndex": 67
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 69
+          "_rowIndex": 68
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 70
+          "_rowIndex": 69
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 71
+          "_rowIndex": 70
         }
       ]
     },
