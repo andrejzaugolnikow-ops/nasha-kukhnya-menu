@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-10T05:05:11.362Z",
+  "updatedAt": "2025-09-10T05:20:09.941Z",
   "sheets": {
     "Menu": {
       "rows": 76,
@@ -290,32 +290,32 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Roasted chicken thighs in honey and lemon",
+          "Название": "Sous-vide chicken breast",
           "Цена (AED)": 18,
           "_rowIndex": 49
         },
         {
           "Категория": "Chicken dishes",
+          "Название": "Roasted chicken thighs in honey and lemon",
+          "Цена (AED)": 18,
+          "_rowIndex": 50
+        },
+        {
+          "Категория": "Chicken dishes",
           "Название": "Chicken breast baked with spinach and cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 50
+          "_rowIndex": 51
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 51
+          "_rowIndex": 52
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled turkey breast in citrus marinade",
           "Цена (AED)": 33,
-          "_rowIndex": 52
-        },
-        {
-          "Категория": "Chicken dishes",
-          "Название": "Crispy schnitzel",
-          "Цена (AED)": 10,
           "_rowIndex": 53
         },
         {
