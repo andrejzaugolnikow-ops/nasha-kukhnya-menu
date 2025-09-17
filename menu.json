@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-17T10:20:13.251Z",
+  "updatedAt": "2025-09-17T10:35:09.855Z",
   "sheets": {
     "Menu": {
       "rows": 80,
@@ -146,8 +146,8 @@
         },
         {
           "Категория": "Side dishes",
-          "Название": "Greek style vegetables",
-          "Цена (AED)": 20,
+          "Название": "Broccoli with thai chile",
+          "Цена (AED)": 16,
           "_rowIndex": 25
         },
         {
