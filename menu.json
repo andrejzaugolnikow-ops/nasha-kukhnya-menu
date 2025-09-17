@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-17T04:05:11.498Z",
+  "updatedAt": "2025-09-17T04:20:11.721Z",
   "sheets": {
     "Menu": {
       "rows": 71,
@@ -152,43 +152,43 @@
         },
         {
           "Категория": "Bakery",
+          "Название": "Sochnik shortbread cake stuffed cottage cheese",
+          "Цена (AED)": 12,
+          "_rowIndex": 26
+        },
+        {
+          "Категория": "Bakery",
           "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 26
+          "_rowIndex": 27
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pirozhok with egg and green onion 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 28
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 27
+          "_rowIndex": 29
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 28
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Pizza with chicken and mushrooms",
-          "Цена (AED)": 10,
-          "_rowIndex": 29
+          "_rowIndex": 30
         },
         {
           "Категория": "Bakery",
           "Название": "Pizza with beef and turkey",
           "Цена (AED)": 10,
-          "_rowIndex": 30
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Pizza of vegetables",
-          "Цена (AED)": 12,
           "_rowIndex": 31
         },
         {
           "Категория": "Bakery",
-          "Название": "Pizza Margarita",
+          "Название": "Pizza of vegetables",
           "Цена (AED)": 12,
           "_rowIndex": 32
         },
