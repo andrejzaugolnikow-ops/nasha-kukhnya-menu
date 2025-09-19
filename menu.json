@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-19T10:52:18.162Z",
+  "updatedAt": "2025-09-19T11:05:11.314Z",
   "sheets": {
     "Menu": {
-      "rows": 17,
+      "rows": 39,
       "data": [
         {
           "Категория": "Меню",
@@ -107,6 +107,138 @@
           "Название": "Okroshka whith kefir",
           "Цена (AED)": 25,
           "_rowIndex": 18
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Mashed potato",
+          "Цена (AED)": 16,
+          "_rowIndex": 19
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Buckwheat with mushrooms",
+          "Цена (AED)": 16,
+          "_rowIndex": 20
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Pasta with melted butter",
+          "Цена (AED)": 12,
+          "_rowIndex": 21
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Basmati rice",
+          "Цена (AED)": 8,
+          "_rowIndex": 22
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Grilled vegetables",
+          "Цена (AED)": 20,
+          "_rowIndex": 23
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Greek style vegetables",
+          "Цена (AED)": 20,
+          "_rowIndex": 24
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "Broccoli with thai chile",
+          "Цена (AED)": 16,
+          "_rowIndex": 25
+        },
+        {
+          "Категория": "Side dishes",
+          "Название": "House-made fried potato",
+          "Цена (AED)": 20,
+          "_rowIndex": 26
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pirozhok with chicken and mushrooms 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 27
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Sochnik shortbread cake stuffed cottage cheese",
+          "Цена (AED)": 12,
+          "_rowIndex": 28
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 29
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Homemade cottage cheese Vatrushka",
+          "Цена (AED)": 12,
+          "_rowIndex": 30
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Almond Cookies",
+          "Цена (AED)": 4,
+          "_rowIndex": 31
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pizza with beef and turkey",
+          "Цена (AED)": 10,
+          "_rowIndex": 32
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pizza of vegetables",
+          "Цена (AED)": 12,
+          "_rowIndex": 33
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Medovik trifle",
+          "Цена (AED)": 16,
+          "_rowIndex": 34
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Napoleon trifle",
+          "Цена (AED)": 14,
+          "_rowIndex": 35
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Panna Cotta",
+          "Цена (AED)": 14,
+          "_rowIndex": 36
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Panna Cotta Strawbery",
+          "Цена (AED)": 14,
+          "_rowIndex": 37
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Cinnabon classic",
+          "Цена (AED)": 10,
+          "_rowIndex": 38
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Chia pudding with mango",
+          "Цена (AED)": 14,
+          "_rowIndex": 39
+        },
+        {
+          "Категория": "Bread",
+          "Название": "Small bun 1 pcs",
+          "Цена (AED)": 2,
+          "_rowIndex": 40
         }
       ]
     },
