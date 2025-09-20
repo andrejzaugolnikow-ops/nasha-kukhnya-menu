@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-09-20T07:50:10.130Z",
+  "updatedAt": "2025-09-20T08:05:11.231Z",
   "sheets": {
     "Menu": {
       "rows": 72,
@@ -104,14 +104,14 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Salad with squid",
-          "Цена (AED)": 15,
+          "Название": "Tomato salad (Shakarob)",
+          "Цена (AED)": 16,
           "_rowIndex": 18
         },
         {
-          "Категория": "Soups",
-          "Название": "Borsch",
-          "Цена (AED)": 26,
+          "Категория": "Salads",
+          "Название": "Salad with squid",
+          "Цена (AED)": 15,
           "_rowIndex": 19
         },
         {
