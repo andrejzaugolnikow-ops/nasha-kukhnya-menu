@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-04T12:05:45.526Z",
+  "updatedAt": "2025-10-04T12:20:11.434Z",
   "sheets": {
     "Menu": {
-      "rows": 75,
+      "rows": 76,
       "data": [
         {
           "Категория": "Меню",
@@ -446,15 +446,21 @@
         },
         {
           "Категория": "Sauce",
-          "Название": "Homemade jam",
+          "Название": "Honey",
           "Цена (AED)": 3,
           "_rowIndex": 75
         },
         {
           "Категория": "Sauce",
-          "Название": "Condensed milk",
+          "Название": "Homemade jam",
           "Цена (AED)": 3,
           "_rowIndex": 76
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Condensed milk",
+          "Цена (AED)": 3,
+          "_rowIndex": 77
         }
       ]
     },
