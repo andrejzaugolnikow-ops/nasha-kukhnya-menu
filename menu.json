@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-13T05:50:10.574Z",
+  "updatedAt": "2025-10-13T06:05:16.097Z",
   "sheets": {
     "Menu": {
       "rows": 89,
@@ -86,56 +86,56 @@
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Slightly salted salmon sandwich",
-          "Цена (AED)": 25,
-          "_rowIndex": 15
-        },
-        {
-          "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 16
+          "_rowIndex": 15
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
           "Цена (AED)": 24,
-          "_rowIndex": 17
+          "_rowIndex": 16
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
-          "_rowIndex": 18
+          "_rowIndex": 17
         },
         {
           "Категория": "Salads",
           "Название": "Caesar salad with grilled chicken",
           "Цена (AED)": 18,
-          "_rowIndex": 19
+          "_rowIndex": 18
         },
         {
           "Категория": "Salads",
           "Название": "Salmon poke bowl",
           "Цена (AED)": 34,
-          "_rowIndex": 20
+          "_rowIndex": 19
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 21
+          "_rowIndex": 20
         },
         {
           "Категория": "Salads",
           "Название": "Dressed herring salad",
           "Цена (AED)": 24,
-          "_rowIndex": 22
+          "_rowIndex": 21
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
+          "_rowIndex": 22
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Tomato salad (Shakarob)",
+          "Цена (AED)": 16,
           "_rowIndex": 23
         },
         {
