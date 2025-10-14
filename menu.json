@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-14T04:50:14.426Z",
+  "updatedAt": "2025-10-14T05:05:15.885Z",
   "sheets": {
     "Menu": {
       "rows": 84,
@@ -80,8 +80,8 @@
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Slightly salted salmon sandwich",
-          "Цена (AED)": 25,
+          "Название": "Chicken sandwich",
+          "Цена (AED)": 22,
           "_rowIndex": 14
         },
         {
