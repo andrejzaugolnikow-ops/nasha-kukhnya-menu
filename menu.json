@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-21T08:50:10.482Z",
+  "updatedAt": "2025-10-21T09:05:10.748Z",
   "sheets": {
     "Menu": {
-      "rows": 99,
+      "rows": 101,
       "data": [
         {
           "Категория": "Меню",
@@ -542,63 +542,75 @@
         },
         {
           "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with cherries and apples",
+          "Цена (AED)": 22,
+          "_rowIndex": 91
+        },
+        {
+          "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 91
+          "_rowIndex": 92
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 92
+          "_rowIndex": 93
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 93
+          "_rowIndex": 94
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 94
+          "_rowIndex": 95
         },
         {
           "Категория": "Vegan",
           "Название": "Potato pancake",
           "Цена (AED)": 18,
-          "_rowIndex": 95
+          "_rowIndex": 96
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 96
+          "_rowIndex": 97
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 97
+          "_rowIndex": 98
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 98
+          "_rowIndex": 99
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 99
+          "_rowIndex": 100
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 100
+          "_rowIndex": 101
+        },
+        {
+          "Категория": "Main dishes with side dishes",
+          "Название": "Fettuccine with chicken and mushrooms",
+          "Цена (AED)": 25,
+          "_rowIndex": 102
         }
       ]
     },
