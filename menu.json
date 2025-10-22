@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-22T17:50:10.917Z",
+  "updatedAt": "2025-10-22T18:05:12.117Z",
   "sheets": {
     "Menu": {
-      "rows": 95,
+      "rows": 96,
       "data": [
         {
           "Категория": "Меню",
@@ -421,160 +421,166 @@
           "_rowIndex": 70
         },
         {
+          "Категория": "Beef dishes",
+          "Название": "Beef ribs in BBQ sauce",
+          "Цена (AED)": 21,
+          "_rowIndex": 71
+        },
+        {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
-          "_rowIndex": 71
+          "_rowIndex": 72
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Grilled salmon in teriyaki sauce",
           "Цена (AED)": 36,
-          "_rowIndex": 72
+          "_rowIndex": 73
         },
         {
           "Категория": "Beverages",
           "Название": "Dried fruit compot",
           "Цена (AED)": 7,
-          "_rowIndex": 73
+          "_rowIndex": 74
         },
         {
           "Категория": "Beverages",
           "Название": "Berries mors homemade",
           "Цена (AED)": 11,
-          "_rowIndex": 74
+          "_rowIndex": 75
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola",
           "Цена (AED)": 7,
-          "_rowIndex": 75
+          "_rowIndex": 76
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite",
           "Цена (AED)": 7,
-          "_rowIndex": 76
+          "_rowIndex": 77
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola Zero",
           "Цена (AED)": 7,
-          "_rowIndex": 77
+          "_rowIndex": 78
         },
         {
           "Категория": "Beverages",
           "Название": "Fanta",
           "Цена (AED)": 7,
-          "_rowIndex": 78
+          "_rowIndex": 79
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull",
           "Цена (AED)": 16,
-          "_rowIndex": 79
+          "_rowIndex": 80
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull sugar free",
           "Цена (AED)": 16,
-          "_rowIndex": 80
+          "_rowIndex": 81
         },
         {
           "Категория": "Beverages",
           "Название": "Still water",
           "Цена (AED)": 3,
-          "_rowIndex": 81
+          "_rowIndex": 82
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №1",
           "Цена (AED)": 44,
-          "_rowIndex": 82
+          "_rowIndex": 83
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №2",
           "Цена (AED)": 39,
-          "_rowIndex": 83
+          "_rowIndex": 84
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №3",
           "Цена (AED)": 39,
-          "_rowIndex": 84
+          "_rowIndex": 85
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with potato",
           "Цена (AED)": 24,
-          "_rowIndex": 85
+          "_rowIndex": 86
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cherries and apples",
           "Цена (AED)": 22,
-          "_rowIndex": 86
+          "_rowIndex": 87
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 87
+          "_rowIndex": 88
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 88
+          "_rowIndex": 89
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 89
+          "_rowIndex": 90
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 90
+          "_rowIndex": 91
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 91
+          "_rowIndex": 92
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 92
+          "_rowIndex": 93
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 93
+          "_rowIndex": 94
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 94
+          "_rowIndex": 95
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 95
+          "_rowIndex": 96
         },
         {
           "Категория": "Main dishes with side dishes",
           "Название": "Fettuccine with chicken and mushrooms",
           "Цена (AED)": 25,
-          "_rowIndex": 96
+          "_rowIndex": 97
         }
       ]
     },
