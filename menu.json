@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-10-27T10:35:14.288Z",
+  "updatedAt": "2025-10-27T10:50:12.591Z",
   "sheets": {
     "Menu": {
       "rows": 94,
@@ -206,8 +206,8 @@
         },
         {
           "Категория": "Side dishes",
-          "Название": "Broccoli with thai chile",
-          "Цена (AED)": 16,
+          "Название": "House-made fried potato",
+          "Цена (AED)": 20,
           "_rowIndex": 35
         },
         {
