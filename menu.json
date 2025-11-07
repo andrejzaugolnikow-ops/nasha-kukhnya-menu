@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-07T10:05:10.208Z",
+  "updatedAt": "2025-11-07T10:20:09.971Z",
   "sheets": {
     "Menu": {
       "rows": 73,
@@ -266,38 +266,38 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Roasted chicken thighs in honey and lemon",
-          "Цена (AED)": 18,
-          "_rowIndex": 45
-        },
-        {
-          "Категория": "Chicken dishes",
           "Название": "Chicken breast baked with spinach and cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 46
+          "_rowIndex": 45
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 47
+          "_rowIndex": 46
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled turkey breast in citrus marinade",
           "Цена (AED)": 33,
-          "_rowIndex": 48
+          "_rowIndex": 47
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef Stroganoff",
           "Цена (AED)": 33,
-          "_rowIndex": 49
+          "_rowIndex": 48
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
+          "_rowIndex": 49
+        },
+        {
+          "Категория": "Beef dishes",
+          "Название": "Beef ribs in BBQ sauce",
+          "Цена (AED)": 21,
           "_rowIndex": 50
         },
         {
