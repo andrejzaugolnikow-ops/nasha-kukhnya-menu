@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-09T09:35:09.766Z",
+  "updatedAt": "2025-11-09T09:50:10.428Z",
   "sheets": {
     "Menu": {
       "rows": 73,
@@ -121,33 +121,33 @@
           "_rowIndex": 20
         },
         {
-          "Категория": "Side dishes",
-          "Название": "Mashed potato",
-          "Цена (AED)": 16,
+          "Категория": "Soups",
+          "Название": "Okroshka with kefir",
+          "Цена (AED)": 25,
           "_rowIndex": 21
         },
         {
           "Категория": "Side dishes",
-          "Название": "Buckwheat with mushrooms",
+          "Название": "Mashed potato",
           "Цена (AED)": 16,
           "_rowIndex": 22
         },
         {
           "Категория": "Side dishes",
+          "Название": "Buckwheat with mushrooms",
+          "Цена (AED)": 16,
+          "_rowIndex": 23
+        },
+        {
+          "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 12,
-          "_rowIndex": 23
+          "_rowIndex": 24
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 24
-        },
-        {
-          "Категория": "Side dishes",
-          "Название": "Grilled vegetables",
-          "Цена (AED)": 20,
           "_rowIndex": 25
         },
         {
