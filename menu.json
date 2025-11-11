@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-11T07:50:10.743Z",
+  "updatedAt": "2025-11-11T08:05:12.826Z",
   "sheets": {
     "Menu": {
       "rows": 83,
@@ -56,74 +56,74 @@
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Chicken sandwich",
-          "Цена (AED)": 22,
-          "_rowIndex": 10
-        },
-        {
-          "Категория": "Cold dishes",
           "Название": "Slightly salted salmon sandwich",
           "Цена (AED)": 25,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 12
+          "_rowIndex": 11
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
           "Цена (AED)": 24,
-          "_rowIndex": 13
+          "_rowIndex": 12
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
-          "_rowIndex": 14
+          "_rowIndex": 13
         },
         {
           "Категория": "Salads",
           "Название": "Caesar salad with grilled chicken",
           "Цена (AED)": 18,
-          "_rowIndex": 15
+          "_rowIndex": 14
         },
         {
           "Категория": "Salads",
           "Название": "Green salad with honey-mustard dressing",
           "Цена (AED)": 15,
-          "_rowIndex": 16
+          "_rowIndex": 15
         },
         {
           "Категория": "Salads",
           "Название": "Salmon poke bowl",
           "Цена (AED)": 34,
-          "_rowIndex": 17
+          "_rowIndex": 16
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 18
+          "_rowIndex": 17
         },
         {
           "Категория": "Salads",
           "Название": "Dressed herring salad",
           "Цена (AED)": 24,
-          "_rowIndex": 19
+          "_rowIndex": 18
         },
         {
           "Категория": "Salads",
           "Название": "Vinaigrette salad",
           "Цена (AED)": 16,
-          "_rowIndex": 20
+          "_rowIndex": 19
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
+          "_rowIndex": 20
+        },
+        {
+          "Категория": "Salads",
+          "Название": "House cabbage salad",
+          "Цена (AED)": 12,
           "_rowIndex": 21
         },
         {
@@ -146,8 +146,8 @@
         },
         {
           "Категория": "Soups",
-          "Название": "Okroshka with kefir",
-          "Цена (AED)": 25,
+          "Название": "Borsch",
+          "Цена (AED)": 26,
           "_rowIndex": 25
         },
         {
