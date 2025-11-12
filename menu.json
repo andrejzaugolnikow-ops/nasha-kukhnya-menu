@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-12T05:20:10.304Z",
+  "updatedAt": "2025-11-12T05:35:10.637Z",
   "sheets": {
     "Menu": {
       "rows": 70,
@@ -230,49 +230,49 @@
         },
         {
           "Категория": "Desserts and pastry",
-          "Название": "Chia pudding with berries",
-          "Цена (AED)": 14,
-          "_rowIndex": 39
-        },
-        {
-          "Категория": "Desserts and pastry",
           "Название": "Healthy candy with dried apricots, cranberries and walnuts",
           "Цена (AED)": 11,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Bread",
           "Название": "Ciabatta 1 pcs",
           "Цена (AED)": 4,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "Bread",
           "Название": "Small bun 1 pcs",
           "Цена (AED)": 2,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken Kiev",
           "Цена (AED)": 15,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 45
+          "_rowIndex": 44
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled chicken with rosemary",
+          "Цена (AED)": 18,
+          "_rowIndex": 45
+        },
+        {
+          "Категория": "Chicken dishes",
+          "Название": "Sous-vide chicken breast",
           "Цена (AED)": 18,
           "_rowIndex": 46
         },
