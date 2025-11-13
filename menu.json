@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-13T08:05:10.590Z",
+  "updatedAt": "2025-11-13T08:20:10.911Z",
   "sheets": {
     "Menu": {
       "rows": 87,
@@ -355,45 +355,45 @@
           "_rowIndex": 59
         },
         {
-          "Категория": "Chicken dishes",
-          "Название": "Grilled turkey breast in citrus marinade",
+          "Категория": "Beef dishes",
+          "Название": "Beef Stroganoff",
           "Цена (AED)": 33,
           "_rowIndex": 60
         },
         {
           "Категория": "Beef dishes",
-          "Название": "Beef Stroganoff",
-          "Цена (AED)": 33,
-          "_rowIndex": 61
-        },
-        {
-          "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
-          "_rowIndex": 62
+          "_rowIndex": 61
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
-          "_rowIndex": 63
+          "_rowIndex": 62
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Grilled salmon in teriyaki sauce",
           "Цена (AED)": 36,
-          "_rowIndex": 64
+          "_rowIndex": 63
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Steamed atlantic salmon back",
           "Цена (AED)": 34,
-          "_rowIndex": 65
+          "_rowIndex": 64
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Tempura white fish",
           "Цена (AED)": 14,
+          "_rowIndex": 65
+        },
+        {
+          "Категория": "Fish and seafood dishes",
+          "Название": "Baked fish sea bass with spinach",
+          "Цена (AED)": 29,
           "_rowIndex": 66
         },
         {
