@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-22T08:50:11.787Z",
+  "updatedAt": "2025-11-22T09:05:11.298Z",
   "sheets": {
     "Menu": {
       "rows": 84,
@@ -92,26 +92,26 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Salmon poke bowl",
-          "Цена (AED)": 34,
-          "_rowIndex": 16
-        },
-        {
-          "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 17
+          "_rowIndex": 16
         },
         {
           "Категория": "Salads",
           "Название": "Vinaigrette salad",
           "Цена (AED)": 16,
-          "_rowIndex": 18
+          "_rowIndex": 17
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
+          "_rowIndex": 18
+        },
+        {
+          "Категория": "Salads",
+          "Название": "House cabbage salad",
+          "Цена (AED)": 12,
           "_rowIndex": 19
         },
         {
