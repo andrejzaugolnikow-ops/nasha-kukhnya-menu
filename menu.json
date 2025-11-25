@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-25T09:21:51.880Z",
+  "updatedAt": "2025-11-25T09:35:09.692Z",
   "sheets": {
     "Menu": {
-      "rows": 85,
+      "rows": 91,
       "data": [
         {
           "Категория": "Меню",
@@ -515,6 +515,42 @@
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
           "_rowIndex": 86
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 87
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Pancakes with minced meat 4 pieces",
+          "Цена (AED)": 31,
+          "_rowIndex": 88
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Syrniki 9 pieces",
+          "Цена (AED)": 69,
+          "_rowIndex": 89
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Sour cream",
+          "Цена (AED)": 3,
+          "_rowIndex": 90
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Homemade jam",
+          "Цена (AED)": 3,
+          "_rowIndex": 91
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Condensed milk",
+          "Цена (AED)": 3,
+          "_rowIndex": 92
         }
       ]
     },
