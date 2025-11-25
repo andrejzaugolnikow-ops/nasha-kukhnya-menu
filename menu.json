@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-25T06:35:10.781Z",
+  "updatedAt": "2025-11-25T06:50:10.025Z",
   "sheets": {
     "Menu": {
       "rows": 93,
@@ -38,49 +38,49 @@
         },
         {
           "Категория": "Breakfast",
-          "Название": "Omelette with tomatoes and avocado",
-          "Цена (AED)": 12,
-          "_rowIndex": 7
-        },
-        {
-          "Категория": "Breakfast",
           "Название": "Homemade granola and yogurt",
           "Цена (AED)": 12,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 9
+          "_rowIndex": 8
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "Chicken sandwich",
           "Цена (AED)": 22,
-          "_rowIndex": 12
+          "_rowIndex": 11
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 13
+          "_rowIndex": 12
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
+          "Цена (AED)": 24,
+          "_rowIndex": 13
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Olivier Salad",
           "Цена (AED)": 24,
           "_rowIndex": 14
         },
