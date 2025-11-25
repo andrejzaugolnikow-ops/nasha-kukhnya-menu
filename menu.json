@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-25T06:50:10.025Z",
+  "updatedAt": "2025-11-25T07:05:09.982Z",
   "sheets": {
     "Menu": {
       "rows": 93,
@@ -32,98 +32,98 @@
         },
         {
           "Категория": "Breakfast",
-          "Название": "Oatmeal porridge with fresh berries",
-          "Цена (AED)": 18,
-          "_rowIndex": 6
-        },
-        {
-          "Категория": "Breakfast",
           "Название": "Homemade granola and yogurt",
           "Цена (AED)": 12,
-          "_rowIndex": 7
+          "_rowIndex": 6
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
-          "_rowIndex": 9
+          "_rowIndex": 8
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
           "Название": "Chicken sandwich",
           "Цена (AED)": 22,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 12
+          "_rowIndex": 11
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
           "Цена (AED)": 24,
-          "_rowIndex": 13
+          "_rowIndex": 12
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
-          "_rowIndex": 14
+          "_rowIndex": 13
         },
         {
           "Категория": "Salads",
           "Название": "Caesar salad with grilled chicken",
           "Цена (AED)": 18,
-          "_rowIndex": 15
+          "_rowIndex": 14
         },
         {
           "Категория": "Salads",
           "Название": "Green salad with honey-mustard dressing",
           "Цена (AED)": 15,
-          "_rowIndex": 16
+          "_rowIndex": 15
         },
         {
           "Категория": "Salads",
           "Название": "Salmon poke bowl",
           "Цена (AED)": 34,
-          "_rowIndex": 17
+          "_rowIndex": 16
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 18
+          "_rowIndex": 17
         },
         {
           "Категория": "Salads",
           "Название": "Vinaigrette salad",
           "Цена (AED)": 16,
-          "_rowIndex": 19
+          "_rowIndex": 18
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 20
+          "_rowIndex": 19
         },
         {
           "Категория": "Salads",
           "Название": "Salad with arugula and shrimps",
           "Цена (AED)": 18,
+          "_rowIndex": 20
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Salad with squid",
+          "Цена (AED)": 15,
           "_rowIndex": 21
         },
         {
