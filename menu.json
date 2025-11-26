@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-11-26T04:20:10.361Z",
+  "updatedAt": "2025-11-26T04:35:10.485Z",
   "sheets": {
     "Menu": {
       "rows": 84,
@@ -68,37 +68,37 @@
         },
         {
           "Категория": "Cold dishes",
-          "Название": "House made roastbeef",
+          "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
           "_rowIndex": 12
         },
         {
           "Категория": "Cold dishes",
-          "Название": "Herb roasted turkey breast",
-          "Цена (AED)": 19,
-          "_rowIndex": 13
-        },
-        {
-          "Категория": "Cold dishes",
           "Название": "Chicken sandwich",
           "Цена (AED)": 22,
-          "_rowIndex": 14
+          "_rowIndex": 13
         },
         {
           "Категория": "Cold dishes",
           "Название": "Slightly salted salmon sandwich",
           "Цена (AED)": 25,
-          "_rowIndex": 15
+          "_rowIndex": 14
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 16
+          "_rowIndex": 15
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
+          "Цена (AED)": 24,
+          "_rowIndex": 16
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Olivier Salad",
           "Цена (AED)": 24,
           "_rowIndex": 17
         },
