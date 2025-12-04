@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-04T05:35:10.988Z",
+  "updatedAt": "2025-12-04T05:50:10.939Z",
   "sheets": {
     "Menu": {
       "rows": 85,
@@ -38,104 +38,104 @@
         },
         {
           "Категория": "Breakfast",
-          "Название": "Omelette with tomatoes and avocado",
-          "Цена (AED)": 12,
-          "_rowIndex": 7
-        },
-        {
-          "Категория": "Breakfast",
           "Название": "Blini 3 pcs",
           "Цена (AED)": 9,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Breakfast",
           "Название": "Homemade granola and yogurt",
           "Цена (AED)": 12,
-          "_rowIndex": 9
-        },
-        {
-          "Категория": "Breakfast",
-          "Название": "Omelette with salmon, tomatoes and cream cheese",
-          "Цена (AED)": 20,
-          "_rowIndex": 10
+          "_rowIndex": 8
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 11
+          "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
-          "_rowIndex": 12
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
-          "_rowIndex": 13
+          "_rowIndex": 11
         },
         {
           "Категория": "Cold dishes",
           "Название": "Chicken sandwich",
           "Цена (AED)": 22,
-          "_rowIndex": 14
+          "_rowIndex": 12
         },
         {
           "Категория": "Cold dishes",
           "Название": "Slightly salted salmon sandwich",
           "Цена (AED)": 25,
-          "_rowIndex": 15
+          "_rowIndex": 13
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef sandwich",
           "Цена (AED)": 27,
-          "_rowIndex": 16
+          "_rowIndex": 14
         },
         {
           "Категория": "Cold dishes",
           "Название": "Turkey sandwich",
           "Цена (AED)": 24,
-          "_rowIndex": 17
+          "_rowIndex": 15
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
-          "_rowIndex": 18
+          "_rowIndex": 16
         },
         {
           "Категория": "Salads",
           "Название": "Caesar salad with grilled chicken",
           "Цена (AED)": 18,
-          "_rowIndex": 19
+          "_rowIndex": 17
         },
         {
           "Категория": "Salads",
           "Название": "Salmon poke bowl",
           "Цена (AED)": 34,
-          "_rowIndex": 20
+          "_rowIndex": 18
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 21
+          "_rowIndex": 19
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 22
+          "_rowIndex": 20
         },
         {
           "Категория": "Salads",
           "Название": "House cabbage salad",
           "Цена (AED)": 12,
+          "_rowIndex": 21
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Greek salad",
+          "Цена (AED)": 20,
+          "_rowIndex": 22
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Tomato salad (Shakarob)",
+          "Цена (AED)": 16,
           "_rowIndex": 23
         },
         {
@@ -145,9 +145,9 @@
           "_rowIndex": 24
         },
         {
-          "Категория": "Soups",
-          "Название": "Borsch",
-          "Цена (AED)": 26,
+          "Категория": "Salads",
+          "Название": "Salad with squid",
+          "Цена (AED)": 15,
           "_rowIndex": 25
         },
         {
