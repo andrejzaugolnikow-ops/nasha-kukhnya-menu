@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-08T17:05:14.106Z",
+  "updatedAt": "2025-12-08T17:20:10.411Z",
   "sheets": {
     "Menu": {
-      "rows": 88,
+      "rows": 71,
       "data": [
         {
           "Категория": "Меню",
@@ -431,108 +431,6 @@
           "Название": "Red Bull",
           "Цена (AED)": 16,
           "_rowIndex": 72
-        },
-        {
-          "Категория": "Beverages",
-          "Название": "Red Bull sugar free",
-          "Цена (AED)": 16,
-          "_rowIndex": 73
-        },
-        {
-          "Категория": "Beverages",
-          "Название": "Still water",
-          "Цена (AED)": 3,
-          "_rowIndex": 74
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo №1",
-          "Цена (AED)": 44,
-          "_rowIndex": 75
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo №2",
-          "Цена (AED)": 39,
-          "_rowIndex": 76
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo №3",
-          "Цена (AED)": 39,
-          "_rowIndex": 77
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo 6",
-          "Цена (AED)": 29,
-          "_rowIndex": 78
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo 4",
-          "Цена (AED)": 39,
-          "_rowIndex": 79
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Sauerkraut",
-          "Цена (AED)": 12,
-          "_rowIndex": 80
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 81
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Korean carrot salad",
-          "Цена (AED)": 12,
-          "_rowIndex": 82
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Chicken fried cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 83
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Steamed chicken cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 84
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Pancakes with minced meat 4 pieces",
-          "Цена (AED)": 31,
-          "_rowIndex": 85
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
-          "_rowIndex": 86
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Sour cream",
-          "Цена (AED)": 3,
-          "_rowIndex": 87
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Homemade jam",
-          "Цена (AED)": 3,
-          "_rowIndex": 88
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Condensed milk",
-          "Цена (AED)": 3,
-          "_rowIndex": 89
         }
       ]
     },
