@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-11T14:05:10.799Z",
+  "updatedAt": "2025-12-11T14:20:10.449Z",
   "sheets": {
     "Menu": {
-      "rows": 93,
+      "rows": 92,
       "data": [
         {
           "Категория": "Меню",
@@ -194,375 +194,369 @@
         },
         {
           "Категория": "Side dishes",
-          "Название": "Broccoli with thai chile",
-          "Цена (AED)": 16,
-          "_rowIndex": 33
-        },
-        {
-          "Категория": "Side dishes",
           "Название": "House-made fried potato",
           "Цена (AED)": 20,
-          "_rowIndex": 34
+          "_rowIndex": 33
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 35
+          "_rowIndex": 34
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 36
+          "_rowIndex": 35
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 37
+          "_rowIndex": 36
         },
         {
           "Категория": "Bakery",
           "Название": "Sochnik shortbread cake stuffed cottage cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 38
+          "_rowIndex": 37
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 39
+          "_rowIndex": 38
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cherry and apple 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Napoleon trifle",
           "Цена (AED)": 14,
-          "_rowIndex": 45
+          "_rowIndex": 44
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "San sebastian cheesecake",
           "Цена (AED)": 22,
-          "_rowIndex": 46
+          "_rowIndex": 45
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Panna Cotta",
           "Цена (AED)": 14,
-          "_rowIndex": 47
+          "_rowIndex": 46
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Tiramisu",
           "Цена (AED)": 23,
-          "_rowIndex": 48
+          "_rowIndex": 47
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Cinnabon classic",
           "Цена (AED)": 10,
-          "_rowIndex": 49
+          "_rowIndex": 48
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Chia pudding with mango",
           "Цена (AED)": 14,
-          "_rowIndex": 50
+          "_rowIndex": 49
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Chia pudding with berries",
           "Цена (AED)": 14,
-          "_rowIndex": 51
+          "_rowIndex": 50
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Healthy candy with dried apricots, cranberries and walnuts",
           "Цена (AED)": 11,
-          "_rowIndex": 52
+          "_rowIndex": 51
         },
         {
           "Категория": "Bread",
           "Название": "Ciabatta 1 pcs",
           "Цена (AED)": 4,
-          "_rowIndex": 53
+          "_rowIndex": 52
         },
         {
           "Категория": "Bread",
           "Название": "Small bun 1 pcs",
           "Цена (AED)": 2,
-          "_rowIndex": 54
+          "_rowIndex": 53
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken Kiev",
           "Цена (AED)": 15,
-          "_rowIndex": 55
+          "_rowIndex": 54
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 56
+          "_rowIndex": 55
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 57
+          "_rowIndex": 56
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled chicken with rosemary",
           "Цена (AED)": 18,
-          "_rowIndex": 58
+          "_rowIndex": 57
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Sous-vide chicken breast",
           "Цена (AED)": 18,
-          "_rowIndex": 59
+          "_rowIndex": 58
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
-          "_rowIndex": 60
+          "_rowIndex": 59
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken breast baked with spinach and cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 61
+          "_rowIndex": 60
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 62
+          "_rowIndex": 61
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled turkey breast in citrus marinade",
           "Цена (AED)": 33,
-          "_rowIndex": 63
+          "_rowIndex": 62
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef Stroganoff",
           "Цена (AED)": 33,
-          "_rowIndex": 64
+          "_rowIndex": 63
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
-          "_rowIndex": 65
+          "_rowIndex": 64
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
-          "_rowIndex": 66
+          "_rowIndex": 65
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Grilled salmon in teriyaki sauce",
           "Цена (AED)": 36,
-          "_rowIndex": 67
+          "_rowIndex": 66
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Steamed atlantic salmon back",
           "Цена (AED)": 34,
-          "_rowIndex": 68
+          "_rowIndex": 67
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Baked fish sea bass with spinach",
           "Цена (AED)": 29,
-          "_rowIndex": 69
+          "_rowIndex": 68
         },
         {
           "Категория": "Beverages",
           "Название": "Dried fruit compot",
           "Цена (AED)": 7,
-          "_rowIndex": 70
+          "_rowIndex": 69
         },
         {
           "Категория": "Beverages",
           "Название": "Berries mors homemade",
           "Цена (AED)": 11,
-          "_rowIndex": 71
+          "_rowIndex": 70
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola",
           "Цена (AED)": 7,
-          "_rowIndex": 72
+          "_rowIndex": 71
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite",
           "Цена (AED)": 7,
-          "_rowIndex": 73
+          "_rowIndex": 72
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola Zero",
           "Цена (AED)": 7,
-          "_rowIndex": 74
+          "_rowIndex": 73
         },
         {
           "Категория": "Beverages",
           "Название": "Fanta",
           "Цена (AED)": 7,
-          "_rowIndex": 75
+          "_rowIndex": 74
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull",
           "Цена (AED)": 16,
-          "_rowIndex": 76
+          "_rowIndex": 75
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull sugar free",
           "Цена (AED)": 16,
-          "_rowIndex": 77
+          "_rowIndex": 76
         },
         {
           "Категория": "Beverages",
           "Название": "Still water",
           "Цена (AED)": 3,
-          "_rowIndex": 78
+          "_rowIndex": 77
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №1",
           "Цена (AED)": 44,
-          "_rowIndex": 79
+          "_rowIndex": 78
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №2",
           "Цена (AED)": 39,
-          "_rowIndex": 80
+          "_rowIndex": 79
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo 6",
           "Цена (AED)": 29,
-          "_rowIndex": 81
+          "_rowIndex": 80
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo 4",
           "Цена (AED)": 39,
-          "_rowIndex": 82
+          "_rowIndex": 81
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with potato",
           "Цена (AED)": 24,
-          "_rowIndex": 83
+          "_rowIndex": 82
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cherries and apples",
           "Цена (AED)": 22,
-          "_rowIndex": 84
+          "_rowIndex": 83
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 85
+          "_rowIndex": 84
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 86
+          "_rowIndex": 85
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 87
+          "_rowIndex": 86
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 88
+          "_rowIndex": 87
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 89
+          "_rowIndex": 88
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 90
+          "_rowIndex": 89
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 91
+          "_rowIndex": 90
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 92
+          "_rowIndex": 91
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 93
+          "_rowIndex": 92
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 94
+          "_rowIndex": 93
         }
       ]
     },
