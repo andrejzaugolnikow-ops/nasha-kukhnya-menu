@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-12T09:05:14.761Z",
+  "updatedAt": "2025-12-12T09:20:13.099Z",
   "sheets": {
     "Menu": {
-      "rows": 92,
+      "rows": 91,
       "data": [
         {
           "Категория": "Меню",
@@ -506,57 +506,51 @@
         },
         {
           "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 85
-        },
-        {
-          "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 86
+          "_rowIndex": 85
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 87
+          "_rowIndex": 86
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 88
+          "_rowIndex": 87
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 89
+          "_rowIndex": 88
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 90
+          "_rowIndex": 89
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 91
+          "_rowIndex": 90
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 92
+          "_rowIndex": 91
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 93
+          "_rowIndex": 92
         }
       ]
     },
