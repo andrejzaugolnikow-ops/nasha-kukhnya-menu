@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-13T12:50:10.656Z",
+  "updatedAt": "2025-12-13T13:05:10.902Z",
   "sheets": {
     "Menu": {
       "rows": 88,
@@ -98,110 +98,110 @@
         },
         {
           "Категория": "Salads",
+          "Название": "House cabbage salad",
+          "Цена (AED)": 12,
+          "_rowIndex": 17
+        },
+        {
+          "Категория": "Salads",
           "Название": "Greek salad",
           "Цена (AED)": 20,
-          "_rowIndex": 17
+          "_rowIndex": 18
         },
         {
           "Категория": "Salads",
           "Название": "Tomato salad (Shakarob)",
           "Цена (AED)": 16,
-          "_rowIndex": 18
+          "_rowIndex": 19
         },
         {
           "Категория": "Salads",
           "Название": "Salad with arugula and shrimps",
           "Цена (AED)": 18,
-          "_rowIndex": 19
+          "_rowIndex": 20
         },
         {
           "Категория": "Soups",
           "Название": "Chicken homemade noodle soup",
           "Цена (AED)": 20,
-          "_rowIndex": 20
+          "_rowIndex": 21
         },
         {
           "Категория": "Soups",
           "Название": "Borsch",
           "Цена (AED)": 26,
-          "_rowIndex": 21
+          "_rowIndex": 22
         },
         {
           "Категория": "Soups",
           "Название": "Okroshka with kefir",
           "Цена (AED)": 25,
-          "_rowIndex": 22
+          "_rowIndex": 23
         },
         {
           "Категория": "Side dishes",
           "Название": "Mashed potato",
           "Цена (AED)": 16,
-          "_rowIndex": 23
+          "_rowIndex": 24
         },
         {
           "Категория": "Side dishes",
           "Название": "Buckwheat with mushrooms",
           "Цена (AED)": 16,
-          "_rowIndex": 24
+          "_rowIndex": 25
         },
         {
           "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 12,
-          "_rowIndex": 25
+          "_rowIndex": 26
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 26
+          "_rowIndex": 27
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 27
+          "_rowIndex": 28
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 28
+          "_rowIndex": 29
         },
         {
           "Категория": "Side dishes",
           "Название": "Broccoli with thai chile",
           "Цена (AED)": 16,
-          "_rowIndex": 29
+          "_rowIndex": 30
         },
         {
           "Категория": "Side dishes",
           "Название": "House-made fried potato",
           "Цена (AED)": 20,
-          "_rowIndex": 30
+          "_rowIndex": 31
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 31
+          "_rowIndex": 32
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 32
+          "_rowIndex": 33
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 33
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Sochnik shortbread cake stuffed cottage cheese",
-          "Цена (AED)": 12,
           "_rowIndex": 34
         },
         {
