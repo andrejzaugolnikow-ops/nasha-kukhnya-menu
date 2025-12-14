@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-14T10:50:11.642Z",
+  "updatedAt": "2025-12-14T11:05:10.031Z",
   "sheets": {
     "Menu": {
       "rows": 83,
@@ -182,44 +182,44 @@
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cabbage 1 pcs",
-          "Цена (AED)": 6,
+          "Название": "Sochnik shortbread cake stuffed cottage cheese",
+          "Цена (AED)": 12,
           "_rowIndex": 31
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with egg and green onion 1 pcs",
+          "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 32
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 33
         },
         {
           "Категория": "Bakery",
+          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 34
+        },
+        {
+          "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 34
+          "_rowIndex": 35
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 35
+          "_rowIndex": 36
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
-          "_rowIndex": 36
-        },
-        {
-          "Категория": "Desserts and pastry",
-          "Название": "San sebastian cheesecake",
-          "Цена (AED)": 22,
           "_rowIndex": 37
         },
         {
