@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2025-12-21T14:20:10.387Z",
+  "updatedAt": "2025-12-21T14:35:09.684Z",
   "sheets": {
     "Menu": {
       "rows": 68,
@@ -188,8 +188,8 @@
         },
         {
           "Категория": "Desserts and pastry",
-          "Название": "Chia pudding with mango",
-          "Цена (AED)": 14,
+          "Название": "Tiramisu",
+          "Цена (AED)": 23,
           "_rowIndex": 32
         },
         {
