@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-07T21:05:10.487Z",
+  "updatedAt": "2026-01-07T21:20:11.009Z",
   "sheets": {
     "Menu": {
-      "rows": 76,
+      "rows": 77,
       "data": [
         {
           "Категория": "Меню",
@@ -403,64 +403,70 @@
           "_rowIndex": 67
         },
         {
+          "Категория": "Vareniki",
+          "Название": "Pelmeni with chicken",
+          "Цена (AED)": 18,
+          "_rowIndex": 68
+        },
+        {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 68
+          "_rowIndex": 69
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 69
+          "_rowIndex": 70
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 70
+          "_rowIndex": 71
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 71
+          "_rowIndex": 72
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 72
+          "_rowIndex": 73
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 73
+          "_rowIndex": 74
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 74
+          "_rowIndex": 75
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 75
+          "_rowIndex": 76
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 76
+          "_rowIndex": 77
         },
         {
           "Категория": "Main dishes with side dishes",
           "Название": "Fettuccine with chicken and mushrooms",
           "Цена (AED)": 25,
-          "_rowIndex": 77
+          "_rowIndex": 78
         }
       ]
     },
