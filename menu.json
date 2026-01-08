@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-08T05:50:10.941Z",
+  "updatedAt": "2026-01-08T06:05:10.616Z",
   "sheets": {
     "Menu": {
       "rows": 81,
@@ -49,33 +49,33 @@
           "_rowIndex": 8
         },
         {
-          "Категория": "Breakfast",
-          "Название": "Omelette with salmon, tomatoes and cream cheese",
-          "Цена (AED)": 20,
-          "_rowIndex": 9
-        },
-        {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made roastbeef",
           "Цена (AED)": 19,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Cold dishes",
           "Название": "Herb roasted turkey breast",
           "Цена (AED)": 19,
-          "_rowIndex": 12
+          "_rowIndex": 11
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
+          "_rowIndex": 12
+        },
+        {
+          "Категория": "Salads",
+          "Название": "Caesar salad with grilled chicken",
+          "Цена (AED)": 18,
           "_rowIndex": 13
         },
         {
