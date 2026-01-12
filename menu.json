@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-12T12:20:14.081Z",
+  "updatedAt": "2026-01-12T12:35:15.876Z",
   "sheets": {
     "Menu": {
-      "rows": 70,
+      "rows": 69,
       "data": [
         {
           "Категория": "Меню",
@@ -92,44 +92,44 @@
         },
         {
           "Категория": "Side dishes",
-          "Название": "Pasta with melted butter",
-          "Цена (AED)": 12,
-          "_rowIndex": 16
-        },
-        {
-          "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 17
+          "_rowIndex": 16
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 18
+          "_rowIndex": 17
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 19
+          "_rowIndex": 18
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 20
+          "_rowIndex": 19
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 21
+          "_rowIndex": 20
         },
         {
           "Категория": "Bakery",
           "Название": "Sochnik shortbread cake stuffed cottage cheese",
           "Цена (AED)": 12,
+          "_rowIndex": 21
+        },
+        {
+          "Категория": "Bakery",
+          "Название": "Pirozhok with cabbage 1 pcs",
+          "Цена (AED)": 6,
           "_rowIndex": 22
         },
         {
@@ -379,52 +379,46 @@
           "_rowIndex": 63
         },
         {
-          "Категория": "Pickles",
-          "Название": "Korean carrot salad",
-          "Цена (AED)": 12,
-          "_rowIndex": 64
-        },
-        {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 65
+          "_rowIndex": 64
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 66
+          "_rowIndex": 65
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 67
+          "_rowIndex": 66
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 68
+          "_rowIndex": 67
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 69
+          "_rowIndex": 68
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 70
+          "_rowIndex": 69
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 71
+          "_rowIndex": 70
         }
       ]
     },
