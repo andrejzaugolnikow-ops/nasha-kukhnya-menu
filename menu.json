@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-13T10:35:12.366Z",
+  "updatedAt": "2026-01-13T10:50:14.773Z",
   "sheets": {
     "Menu": {
       "rows": 72,
@@ -139,93 +139,93 @@
           "_rowIndex": 23
         },
         {
-          "Категория": "Side dishes",
-          "Название": "Greek style vegetables",
-          "Цена (AED)": 20,
-          "_rowIndex": 24
-        },
-        {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 25
+          "_rowIndex": 24
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 26
+          "_rowIndex": 25
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 27
+          "_rowIndex": 26
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 28
+          "_rowIndex": 27
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 29
+          "_rowIndex": 28
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cherry and apple 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 30
+          "_rowIndex": 29
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 31
+          "_rowIndex": 30
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 32
+          "_rowIndex": 31
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
-          "_rowIndex": 33
+          "_rowIndex": 32
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Napoleon trifle",
           "Цена (AED)": 14,
-          "_rowIndex": 34
+          "_rowIndex": 33
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "San sebastian cheesecake",
           "Цена (AED)": 22,
-          "_rowIndex": 35
+          "_rowIndex": 34
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Panna Cotta",
           "Цена (AED)": 14,
-          "_rowIndex": 36
+          "_rowIndex": 35
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Tiramisu",
           "Цена (AED)": 23,
-          "_rowIndex": 37
+          "_rowIndex": 36
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Panna Cotta Strawbery",
           "Цена (AED)": 14,
+          "_rowIndex": 37
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Cinnabon classic",
+          "Цена (AED)": 10,
           "_rowIndex": 38
         },
         {
