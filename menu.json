@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-15T15:20:16.123Z",
+  "updatedAt": "2026-01-15T15:35:14.147Z",
   "sheets": {
     "Menu": {
       "rows": 70,
@@ -50,32 +50,32 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Olivier Salad",
-          "Цена (AED)": 24,
-          "_rowIndex": 9
-        },
-        {
-          "Категория": "Salads",
           "Название": "Salmon poke bowl",
           "Цена (AED)": 34,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 11
+          "_rowIndex": 10
         },
         {
           "Категория": "Salads",
           "Название": "Dressed herring salad",
           "Цена (AED)": 24,
-          "_rowIndex": 12
+          "_rowIndex": 11
         },
         {
           "Категория": "Salads",
           "Название": "House cabbage salad",
           "Цена (AED)": 12,
+          "_rowIndex": 12
+        },
+        {
+          "Категория": "Soups",
+          "Название": "Borsch",
+          "Цена (AED)": 26,
           "_rowIndex": 13
         },
         {
