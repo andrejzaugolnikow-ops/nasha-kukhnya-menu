@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-18T12:50:11.053Z",
+  "updatedAt": "2026-01-18T13:05:11.969Z",
   "sheets": {
     "Menu": {
-      "rows": 63,
+      "rows": 62,
       "data": [
         {
           "Категория": "Меню",
@@ -377,12 +377,6 @@
           "Название": "Condensed milk",
           "Цена (AED)": 3,
           "_rowIndex": 63
-        },
-        {
-          "Категория": "Main dishes with side dishes",
-          "Название": "Fettuccine with chicken and mushrooms",
-          "Цена (AED)": 25,
-          "_rowIndex": 64
         }
       ]
     },
