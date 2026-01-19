@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-19T14:20:14.787Z",
+  "updatedAt": "2026-01-19T14:35:10.738Z",
   "sheets": {
     "Menu": {
-      "rows": 76,
+      "rows": 74,
       "data": [
         {
           "Категория": "Меню",
@@ -427,40 +427,28 @@
           "_rowIndex": 71
         },
         {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Pancakes with minced meat 4 pieces",
-          "Цена (AED)": 31,
-          "_rowIndex": 72
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
-          "_rowIndex": 73
-        },
-        {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 74
+          "_rowIndex": 72
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 75
+          "_rowIndex": 73
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 76
+          "_rowIndex": 74
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 77
+          "_rowIndex": 75
         }
       ]
     },
