@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-19T22:35:09.762Z",
+  "updatedAt": "2026-01-19T22:50:11.105Z",
   "sheets": {
     "Menu": {
-      "rows": 38,
+      "rows": 63,
       "data": [
         {
           "Категория": "Меню",
@@ -233,6 +233,156 @@
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
           "_rowIndex": 39
+        },
+        {
+          "Категория": "Chicken dishes",
+          "Название": "Chicken breast baked with spinach and cheese",
+          "Цена (AED)": 12,
+          "_rowIndex": 40
+        },
+        {
+          "Категория": "Chicken dishes",
+          "Название": "Steamed turkey cutlet with zucchini",
+          "Цена (AED)": 16,
+          "_rowIndex": 41
+        },
+        {
+          "Категория": "Beef dishes",
+          "Название": "Beef Stroganoff",
+          "Цена (AED)": 33,
+          "_rowIndex": 42
+        },
+        {
+          "Категория": "Beef dishes",
+          "Название": "Beef meatballs in tomato sauce 3 piece",
+          "Цена (AED)": 27,
+          "_rowIndex": 43
+        },
+        {
+          "Категория": "Fish and seafood dishes",
+          "Название": "Crab cake 3 piece",
+          "Цена (AED)": 36,
+          "_rowIndex": 44
+        },
+        {
+          "Категория": "Fish and seafood dishes",
+          "Название": "Grilled salmon in teriyaki sauce",
+          "Цена (AED)": 36,
+          "_rowIndex": 45
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Coca cola",
+          "Цена (AED)": 7,
+          "_rowIndex": 46
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Sprite",
+          "Цена (AED)": 7,
+          "_rowIndex": 47
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Coca cola Zero",
+          "Цена (AED)": 7,
+          "_rowIndex": 48
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Fanta",
+          "Цена (AED)": 7,
+          "_rowIndex": 49
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Red Bull",
+          "Цена (AED)": 16,
+          "_rowIndex": 50
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Red Bull sugar free",
+          "Цена (AED)": 16,
+          "_rowIndex": 51
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Still water",
+          "Цена (AED)": 3,
+          "_rowIndex": 52
+        },
+        {
+          "Категория": "Combo Menu",
+          "Название": "Combo №1",
+          "Цена (AED)": 39,
+          "_rowIndex": 53
+        },
+        {
+          "Категория": "Combo Menu",
+          "Название": "Combo №2",
+          "Цена (AED)": 39,
+          "_rowIndex": 54
+        },
+        {
+          "Категория": "Combo Menu",
+          "Название": "Combo 5",
+          "Цена (AED)": 39,
+          "_rowIndex": 55
+        },
+        {
+          "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with potato",
+          "Цена (AED)": 24,
+          "_rowIndex": 56
+        },
+        {
+          "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with cottage cheese",
+          "Цена (AED)": 28,
+          "_rowIndex": 57
+        },
+        {
+          "Категория": "Vegan",
+          "Название": "Potato pancake",
+          "Цена (AED)": 18,
+          "_rowIndex": 58
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Chicken fried cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 59
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 60
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Sour cream",
+          "Цена (AED)": 3,
+          "_rowIndex": 61
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Honey",
+          "Цена (AED)": 3,
+          "_rowIndex": 62
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Homemade jam",
+          "Цена (AED)": 3,
+          "_rowIndex": 63
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Condensed milk",
+          "Цена (AED)": 3,
+          "_rowIndex": 64
         }
       ]
     },
