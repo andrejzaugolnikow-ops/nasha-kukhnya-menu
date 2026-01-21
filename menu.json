@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-21T16:07:14.978Z",
+  "updatedAt": "2026-01-21T16:20:11.535Z",
   "sheets": {
     "Menu": {
-      "rows": 52,
+      "rows": 64,
       "data": [
         {
           "Категория": "Меню",
@@ -317,6 +317,78 @@
           "Название": "Red Bull",
           "Цена (AED)": 16,
           "_rowIndex": 53
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Red Bull sugar free",
+          "Цена (AED)": 16,
+          "_rowIndex": 54
+        },
+        {
+          "Категория": "Beverages",
+          "Название": "Still water",
+          "Цена (AED)": 3,
+          "_rowIndex": 55
+        },
+        {
+          "Категория": "Combo Menu",
+          "Название": "Combo №1",
+          "Цена (AED)": 39,
+          "_rowIndex": 56
+        },
+        {
+          "Категория": "Pickles",
+          "Название": "Sauerkraut",
+          "Цена (AED)": 12,
+          "_rowIndex": 57
+        },
+        {
+          "Категория": "Pickles",
+          "Название": "Grandma's dill pickles",
+          "Цена (AED)": 12,
+          "_rowIndex": 58
+        },
+        {
+          "Категория": "Pickles",
+          "Название": "Korean carrot salad",
+          "Цена (AED)": 12,
+          "_rowIndex": 59
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Chicken fried cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 60
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 61
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Sour cream",
+          "Цена (AED)": 3,
+          "_rowIndex": 62
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Honey",
+          "Цена (AED)": 3,
+          "_rowIndex": 63
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Homemade jam",
+          "Цена (AED)": 3,
+          "_rowIndex": 64
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Condensed milk",
+          "Цена (AED)": 3,
+          "_rowIndex": 65
         }
       ]
     },
