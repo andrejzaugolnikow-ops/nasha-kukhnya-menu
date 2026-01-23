@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-23T09:50:11.534Z",
+  "updatedAt": "2026-01-23T10:05:10.704Z",
   "sheets": {
     "Menu": {
-      "rows": 62,
+      "rows": 63,
       "data": [
         {
           "Категория": "Меню",
@@ -284,99 +284,105 @@
         },
         {
           "Категория": "Beverages",
-          "Название": "Coca cola",
-          "Цена (AED)": 7,
+          "Название": "Berries mors homemade",
+          "Цена (AED)": 11,
           "_rowIndex": 48
         },
         {
           "Категория": "Beverages",
-          "Название": "Sprite",
+          "Название": "Coca cola",
           "Цена (AED)": 7,
           "_rowIndex": 49
         },
         {
           "Категория": "Beverages",
-          "Название": "Fanta",
+          "Название": "Sprite",
           "Цена (AED)": 7,
           "_rowIndex": 50
         },
         {
           "Категория": "Beverages",
-          "Название": "Red Bull",
-          "Цена (AED)": 16,
+          "Название": "Fanta",
+          "Цена (AED)": 7,
           "_rowIndex": 51
         },
         {
           "Категория": "Beverages",
-          "Название": "Red Bull sugar free",
+          "Название": "Red Bull",
           "Цена (AED)": 16,
           "_rowIndex": 52
         },
         {
           "Категория": "Beverages",
+          "Название": "Red Bull sugar free",
+          "Цена (AED)": 16,
+          "_rowIndex": 53
+        },
+        {
+          "Категория": "Beverages",
           "Название": "Still water",
           "Цена (AED)": 3,
-          "_rowIndex": 53
+          "_rowIndex": 54
         },
         {
           "Категория": "Combo Menu",
           "Название": "Combo №1",
           "Цена (AED)": 39,
-          "_rowIndex": 54
+          "_rowIndex": 55
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 55
+          "_rowIndex": 56
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 56
+          "_rowIndex": 57
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 57
+          "_rowIndex": 58
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 58
+          "_rowIndex": 59
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 59
+          "_rowIndex": 60
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 60
+          "_rowIndex": 61
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 61
+          "_rowIndex": 62
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 62
+          "_rowIndex": 63
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 63
+          "_rowIndex": 64
         }
       ]
     },
