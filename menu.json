@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-23T07:50:10.369Z",
+  "updatedAt": "2026-01-23T08:05:10.113Z",
   "sheets": {
     "Menu": {
-      "rows": 60,
+      "rows": 59,
       "data": [
         {
           "Категория": "Меню",
@@ -200,171 +200,165 @@
         },
         {
           "Категория": "Bread",
-          "Название": "Ciabatta 1 pcs",
-          "Цена (AED)": 4,
-          "_rowIndex": 34
-        },
-        {
-          "Категория": "Bread",
           "Название": "Small bun 1 pcs",
           "Цена (AED)": 2,
-          "_rowIndex": 35
+          "_rowIndex": 34
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken Kiev",
           "Цена (AED)": 15,
-          "_rowIndex": 36
+          "_rowIndex": 35
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 37
+          "_rowIndex": 36
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 38
+          "_rowIndex": 37
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled chicken with rosemary",
           "Цена (AED)": 18,
-          "_rowIndex": 39
+          "_rowIndex": 38
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Sous-vide chicken breast",
           "Цена (AED)": 18,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled turkey breast in citrus marinade",
           "Цена (AED)": 33,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Grilled salmon in teriyaki sauce",
           "Цена (AED)": 36,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Steamed atlantic salmon back",
           "Цена (AED)": 34,
-          "_rowIndex": 45
+          "_rowIndex": 44
         },
         {
           "Категория": "Beverages",
           "Название": "Berries mors homemade",
           "Цена (AED)": 11,
-          "_rowIndex": 46
+          "_rowIndex": 45
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola",
           "Цена (AED)": 7,
-          "_rowIndex": 47
+          "_rowIndex": 46
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite",
           "Цена (AED)": 7,
-          "_rowIndex": 48
+          "_rowIndex": 47
         },
         {
           "Категория": "Beverages",
           "Название": "Fanta",
           "Цена (AED)": 7,
-          "_rowIndex": 49
+          "_rowIndex": 48
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull",
           "Цена (AED)": 16,
-          "_rowIndex": 50
+          "_rowIndex": 49
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull sugar free",
           "Цена (AED)": 16,
-          "_rowIndex": 51
+          "_rowIndex": 50
         },
         {
           "Категория": "Beverages",
           "Название": "Still water",
           "Цена (AED)": 3,
-          "_rowIndex": 52
+          "_rowIndex": 51
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 53
+          "_rowIndex": 52
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 54
+          "_rowIndex": 53
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 55
+          "_rowIndex": 54
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 56
+          "_rowIndex": 55
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 57
+          "_rowIndex": 56
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 58
+          "_rowIndex": 57
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 59
+          "_rowIndex": 58
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 60
+          "_rowIndex": 59
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 61
+          "_rowIndex": 60
         }
       ]
     },
