@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-01-26T11:20:09.917Z",
+  "updatedAt": "2026-01-26T11:35:11.737Z",
   "sheets": {
     "Menu": {
-      "rows": 83,
+      "rows": 84,
       "data": [
         {
           "Категория": "Меню",
@@ -457,52 +457,58 @@
           "_rowIndex": 76
         },
         {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Chicken fried cutlets 4 pieces",
-          "Цена (AED)": 48,
+          "Категория": "Vegan",
+          "Название": "Potato pancake",
+          "Цена (AED)": 18,
           "_rowIndex": 77
         },
         {
           "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
           "_rowIndex": 78
         },
         {
           "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 79
+        },
+        {
+          "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 79
+          "_rowIndex": 80
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 80
+          "_rowIndex": 81
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 81
+          "_rowIndex": 82
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 82
+          "_rowIndex": 83
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 83
+          "_rowIndex": 84
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 84
+          "_rowIndex": 85
         }
       ]
     },
