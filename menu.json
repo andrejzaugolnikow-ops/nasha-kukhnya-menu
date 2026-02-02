@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-02T09:35:09.971Z",
+  "updatedAt": "2026-02-02T09:50:10.017Z",
   "sheets": {
     "Menu": {
-      "rows": 83,
+      "rows": 82,
       "data": [
         {
           "Категория": "Меню",
@@ -464,45 +464,39 @@
         },
         {
           "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 78
-        },
-        {
-          "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 79
+          "_rowIndex": 78
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 80
+          "_rowIndex": 79
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 81
+          "_rowIndex": 80
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 82
+          "_rowIndex": 81
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 83
+          "_rowIndex": 82
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 84
+          "_rowIndex": 83
         }
       ]
     },
