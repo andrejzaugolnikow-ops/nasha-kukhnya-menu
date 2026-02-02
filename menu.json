@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-02T11:20:10.599Z",
+  "updatedAt": "2026-02-02T11:35:10.387Z",
   "sheets": {
     "Menu": {
       "rows": 72,
@@ -121,69 +121,69 @@
           "_rowIndex": 20
         },
         {
-          "Категория": "Bakery",
-          "Название": "Pirozhok with meat 1 pcs",
-          "Цена (AED)": 6,
+          "Категория": "Side dishes",
+          "Название": "Broccoli with thai chile",
+          "Цена (AED)": 16,
           "_rowIndex": 21
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with chicken and mushrooms 1 pcs",
+          "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 22
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with potato 1 pcs",
+          "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 23
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cabbage 1 pcs",
+          "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 24
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with egg and green onion 1 pcs",
+          "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 25
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 26
         },
         {
           "Категория": "Bakery",
+          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 27
+        },
+        {
+          "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 27
+          "_rowIndex": 28
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 28
+          "_rowIndex": 29
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
-          "_rowIndex": 29
+          "_rowIndex": 30
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Napoleon trifle",
           "Цена (AED)": 14,
-          "_rowIndex": 30
-        },
-        {
-          "Категория": "Desserts and pastry",
-          "Название": "San sebastian cheesecake",
-          "Цена (AED)": 22,
           "_rowIndex": 31
         },
         {
