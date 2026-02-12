@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-12T09:50:10.262Z",
+  "updatedAt": "2026-02-12T10:05:10.586Z",
   "sheets": {
     "Menu": {
       "rows": 83,
@@ -428,8 +428,8 @@
         },
         {
           "Категория": "Combo Menu",
-          "Название": "Combo №3",
-          "Цена (AED)": 29,
+          "Название": "Combo №2",
+          "Цена (AED)": 39,
           "_rowIndex": 72
         },
         {
