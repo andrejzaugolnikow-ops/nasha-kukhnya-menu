@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-13T12:05:10.084Z",
+  "updatedAt": "2026-02-13T12:20:10.269Z",
   "sheets": {
     "Menu": {
       "rows": 75,
@@ -236,32 +236,32 @@
         },
         {
           "Категория": "Desserts and pastry",
-          "Название": "Chia pudding with mango",
+          "Название": "Chia pudding with berries",
           "Цена (AED)": 14,
           "_rowIndex": 40
         },
         {
           "Категория": "Desserts and pastry",
-          "Название": "Chia pudding with berries",
-          "Цена (AED)": 14,
-          "_rowIndex": 41
-        },
-        {
-          "Категория": "Desserts and pastry",
           "Название": "Healthy candy with dried apricots, cranberries and walnuts",
           "Цена (AED)": 11,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Hazelnut cookies 6 pcs",
           "Цена (AED)": 7,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "The Florentine Sable",
           "Цена (AED)": 6,
+          "_rowIndex": 43
+        },
+        {
+          "Категория": "Bread",
+          "Название": "Ciabatta 1 pcs",
+          "Цена (AED)": 4,
           "_rowIndex": 44
         },
         {
