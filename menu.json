@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-15T09:05:09.749Z",
+  "updatedAt": "2026-02-15T09:20:10.125Z",
   "sheets": {
     "Menu": {
       "rows": 65,
@@ -68,13 +68,13 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Greek salad",
-          "Цена (AED)": 20,
+          "Название": "House cabbage salad",
+          "Цена (AED)": 12,
           "_rowIndex": 12
         },
         {
-          "Категория": "Soups",
-          "Название": "Chicken homemade noodle soup",
+          "Категория": "Salads",
+          "Название": "Greek salad",
           "Цена (AED)": 20,
           "_rowIndex": 13
         },
