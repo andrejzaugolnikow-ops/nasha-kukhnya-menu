@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-16T16:50:11.162Z",
+  "updatedAt": "2026-02-16T17:05:10.647Z",
   "sheets": {
     "Menu": {
-      "rows": 55,
+      "rows": 54,
       "data": [
         {
           "Категория": "Меню",
@@ -200,141 +200,135 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Chicken Kiev",
-          "Цена (AED)": 15,
-          "_rowIndex": 34
-        },
-        {
-          "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 35
+          "_rowIndex": 34
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Sous-vide chicken breast",
           "Цена (AED)": 18,
-          "_rowIndex": 36
+          "_rowIndex": 35
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
-          "_rowIndex": 37
+          "_rowIndex": 36
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken breast baked with spinach and cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 38
+          "_rowIndex": 37
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 39
+          "_rowIndex": 38
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Beverages",
           "Название": "Berries mors homemade",
           "Цена (AED)": 11,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola",
           "Цена (AED)": 7,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "Beverages",
           "Название": "Sprite",
           "Цена (AED)": 7,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Beverages",
           "Название": "Coca cola Zero",
           "Цена (AED)": 7,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "Beverages",
           "Название": "Fanta",
           "Цена (AED)": 7,
-          "_rowIndex": 45
+          "_rowIndex": 44
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull",
           "Цена (AED)": 16,
-          "_rowIndex": 46
+          "_rowIndex": 45
         },
         {
           "Категория": "Beverages",
           "Название": "Red Bull sugar free",
           "Цена (AED)": 16,
-          "_rowIndex": 47
+          "_rowIndex": 46
         },
         {
           "Категория": "Beverages",
           "Название": "Still water",
           "Цена (AED)": 3,
-          "_rowIndex": 48
+          "_rowIndex": 47
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 49
+          "_rowIndex": 48
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 50
+          "_rowIndex": 49
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 51
+          "_rowIndex": 50
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 52
+          "_rowIndex": 51
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 53
+          "_rowIndex": 52
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 54
+          "_rowIndex": 53
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 55
+          "_rowIndex": 54
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 56
+          "_rowIndex": 55
         }
       ]
     },
