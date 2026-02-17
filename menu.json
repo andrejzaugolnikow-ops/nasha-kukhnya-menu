@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-17T05:20:10.179Z",
+  "updatedAt": "2026-02-17T05:35:10.091Z",
   "sheets": {
     "Menu": {
-      "rows": 54,
+      "rows": 53,
       "data": [
         {
           "Категория": "Меню",
@@ -284,51 +284,45 @@
         },
         {
           "Категория": "Pickles",
-          "Название": "Sauerkraut",
+          "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
           "_rowIndex": 48
         },
         {
           "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 49
-        },
-        {
-          "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 50
+          "_rowIndex": 49
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 51
+          "_rowIndex": 50
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 52
+          "_rowIndex": 51
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 53
+          "_rowIndex": 52
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 54
+          "_rowIndex": 53
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 55
+          "_rowIndex": 54
         }
       ]
     },
