@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-17T06:35:11.070Z",
+  "updatedAt": "2026-02-17T06:50:10.360Z",
   "sheets": {
     "Menu": {
-      "rows": 77,
+      "rows": 80,
       "data": [
         {
           "Категория": "Меню",
@@ -433,40 +433,58 @@
           "_rowIndex": 72
         },
         {
+          "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with potato",
+          "Цена (AED)": 19,
+          "_rowIndex": 73
+        },
+        {
+          "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with cherries and apples",
+          "Цена (AED)": 22,
+          "_rowIndex": 74
+        },
+        {
+          "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with cottage cheese",
+          "Цена (AED)": 28,
+          "_rowIndex": 75
+        },
+        {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 73
+          "_rowIndex": 76
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 74
+          "_rowIndex": 77
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 75
+          "_rowIndex": 78
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 76
+          "_rowIndex": 79
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 77
+          "_rowIndex": 80
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 78
+          "_rowIndex": 81
         }
       ]
     },
