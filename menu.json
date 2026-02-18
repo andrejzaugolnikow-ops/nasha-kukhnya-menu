@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-18T03:20:10.858Z",
+  "updatedAt": "2026-02-18T03:35:10.175Z",
   "sheets": {
     "Menu": {
-      "rows": 67,
+      "rows": 64,
       "data": [
         {
           "Категория": "Меню",
@@ -349,64 +349,46 @@
           "_rowIndex": 58
         },
         {
-          "Категория": "Vareniki",
-          "Название": "Steamed Vareniki with potato",
-          "Цена (AED)": 19,
-          "_rowIndex": 59
-        },
-        {
-          "Категория": "Vareniki",
-          "Название": "Steamed Vareniki with cherries and apples",
-          "Цена (AED)": 22,
-          "_rowIndex": 60
-        },
-        {
-          "Категория": "Vareniki",
-          "Название": "Steamed Vareniki with cottage cheese",
-          "Цена (AED)": 28,
-          "_rowIndex": 61
-        },
-        {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 62
+          "_rowIndex": 59
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 63
+          "_rowIndex": 60
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 64
+          "_rowIndex": 61
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 65
+          "_rowIndex": 62
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 66
+          "_rowIndex": 63
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 67
+          "_rowIndex": 64
         },
         {
           "Категория": "Main dishes with side dishes",
           "Название": "Fettuccine with chicken and mushrooms",
           "Цена (AED)": 25,
-          "_rowIndex": 68
+          "_rowIndex": 65
         }
       ]
     },
