@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-18T13:05:12.877Z",
+  "updatedAt": "2026-02-18T13:20:10.349Z",
   "sheets": {
     "Menu": {
-      "rows": 66,
+      "rows": 65,
       "data": [
         {
           "Категория": "Меню",
@@ -32,152 +32,152 @@
         },
         {
           "Категория": "Breakfast",
-          "Название": "Oatmeal porridge with fresh berries",
-          "Цена (AED)": 18,
-          "_rowIndex": 6
-        },
-        {
-          "Категория": "Breakfast",
           "Название": "Blini 3 pcs",
           "Цена (AED)": 9,
-          "_rowIndex": 7
+          "_rowIndex": 6
         },
         {
           "Категория": "Breakfast",
           "Название": "Homemade granola and yogurt",
           "Цена (AED)": 12,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Cold dishes",
           "Название": "House made cured salmon",
           "Цена (AED)": 25,
-          "_rowIndex": 9
+          "_rowIndex": 8
         },
         {
           "Категория": "Salads",
           "Название": "Olivier Salad",
           "Цена (AED)": 24,
-          "_rowIndex": 10
+          "_rowIndex": 9
         },
         {
           "Категория": "Salads",
           "Название": "Chicken poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 11
-        },
-        {
-          "Категория": "Salads",
-          "Название": "Vinaigrette salad",
-          "Цена (AED)": 16,
-          "_rowIndex": 12
+          "_rowIndex": 10
         },
         {
           "Категория": "Salads",
           "Название": "Shrimps poke bowl",
           "Цена (AED)": 25,
-          "_rowIndex": 13
+          "_rowIndex": 11
         },
         {
           "Категория": "Salads",
           "Название": "House cabbage salad",
           "Цена (AED)": 12,
-          "_rowIndex": 14
+          "_rowIndex": 12
         },
         {
           "Категория": "Salads",
           "Название": "Tomato salad (Shakarob)",
           "Цена (AED)": 16,
-          "_rowIndex": 15
+          "_rowIndex": 13
         },
         {
           "Категория": "Side dishes",
           "Название": "Buckwheat with mushrooms",
           "Цена (AED)": 16,
-          "_rowIndex": 16
+          "_rowIndex": 14
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 17
+          "_rowIndex": 15
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 18
+          "_rowIndex": 16
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 19
+          "_rowIndex": 17
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 20
+          "_rowIndex": 18
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 21
+          "_rowIndex": 19
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 22
+          "_rowIndex": 20
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 23
+          "_rowIndex": 21
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 24
+          "_rowIndex": 22
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with cherry and apple 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 25
+          "_rowIndex": 23
         },
         {
           "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 26
+          "_rowIndex": 24
         },
         {
           "Категория": "Bakery",
           "Название": "Almond Cookies",
           "Цена (AED)": 4,
-          "_rowIndex": 27
+          "_rowIndex": 25
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Medovik trifle",
           "Цена (AED)": 16,
-          "_rowIndex": 28
+          "_rowIndex": 26
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "San sebastian cheesecake",
           "Цена (AED)": 22,
-          "_rowIndex": 29
+          "_rowIndex": 27
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Panna Cotta",
+          "Цена (AED)": 14,
+          "_rowIndex": 28
         },
         {
           "Категория": "Desserts and pastry",
           "Название": "Tiramisu",
           "Цена (AED)": 23,
+          "_rowIndex": 29
+        },
+        {
+          "Категория": "Desserts and pastry",
+          "Название": "Panna Cotta Strawbery",
+          "Цена (AED)": 14,
           "_rowIndex": 30
         },
         {
@@ -395,12 +395,6 @@
           "Название": "Condensed milk",
           "Цена (AED)": 3,
           "_rowIndex": 66
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Ketchup",
-          "Цена (AED)": 3,
-          "_rowIndex": 67
         }
       ]
     },
