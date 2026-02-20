@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-20T03:20:13.044Z",
+  "updatedAt": "2026-02-20T03:35:11.031Z",
   "sheets": {
     "Menu": {
-      "rows": 69,
+      "rows": 70,
       "data": [
         {
           "Категория": "Меню",
@@ -392,33 +392,39 @@
         },
         {
           "Категория": "Pickles",
-          "Название": "Korean carrot salad",
+          "Название": "Sauerkraut",
           "Цена (AED)": 12,
           "_rowIndex": 66
+        },
+        {
+          "Категория": "Pickles",
+          "Название": "Korean carrot salad",
+          "Цена (AED)": 12,
+          "_rowIndex": 67
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 67
+          "_rowIndex": 68
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 68
+          "_rowIndex": 69
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 69
+          "_rowIndex": 70
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 70
+          "_rowIndex": 71
         }
       ]
     },
