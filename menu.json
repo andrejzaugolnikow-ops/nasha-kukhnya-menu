@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-20T04:20:11.969Z",
+  "updatedAt": "2026-02-20T04:35:14.490Z",
   "sheets": {
     "Menu": {
       "rows": 70,
@@ -74,62 +74,62 @@
         },
         {
           "Категория": "Salads",
+          "Название": "Vinaigrette salad",
+          "Цена (AED)": 16,
+          "_rowIndex": 13
+        },
+        {
+          "Категория": "Salads",
           "Название": "House cabbage salad",
           "Цена (AED)": 12,
-          "_rowIndex": 13
+          "_rowIndex": 14
         },
         {
           "Категория": "Salads",
           "Название": "Tomato salad (Shakarob)",
           "Цена (AED)": 16,
-          "_rowIndex": 14
+          "_rowIndex": 15
         },
         {
           "Категория": "Soups",
           "Название": "Borsch",
           "Цена (AED)": 26,
-          "_rowIndex": 15
+          "_rowIndex": 16
         },
         {
           "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 12,
-          "_rowIndex": 16
+          "_rowIndex": 17
         },
         {
           "Категория": "Side dishes",
           "Название": "Grilled vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 17
+          "_rowIndex": 18
         },
         {
           "Категория": "Side dishes",
           "Название": "Greek style vegetables",
           "Цена (AED)": 20,
-          "_rowIndex": 18
+          "_rowIndex": 19
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 19
+          "_rowIndex": 20
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 20
+          "_rowIndex": 21
         },
         {
           "Категория": "Bakery",
           "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
-          "_rowIndex": 21
-        },
-        {
-          "Категория": "Bakery",
-          "Название": "Sochnik shortbread cake stuffed cottage cheese",
-          "Цена (AED)": 12,
           "_rowIndex": 22
         },
         {
