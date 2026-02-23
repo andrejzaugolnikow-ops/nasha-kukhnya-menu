@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-23T20:35:13.032Z",
+  "updatedAt": "2026-02-23T20:50:15.049Z",
   "sheets": {
     "Menu": {
-      "rows": 65,
+      "rows": 66,
       "data": [
         {
           "Категория": "Меню",
@@ -361,40 +361,46 @@
           "_rowIndex": 60
         },
         {
+          "Категория": "Combo Menu",
+          "Название": "Iftar Combo",
+          "Цена (AED)": 39,
+          "_rowIndex": 61
+        },
+        {
           "Категория": "Vareniki",
           "Название": "Pelmeni with beef",
           "Цена (AED)": 19.8,
-          "_rowIndex": 61
+          "_rowIndex": 62
         },
         {
           "Категория": "Vareniki",
           "Название": "Pelmeni with chicken",
           "Цена (AED)": 18,
-          "_rowIndex": 62
+          "_rowIndex": 63
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 63
+          "_rowIndex": 64
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 64
+          "_rowIndex": 65
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 65
+          "_rowIndex": 66
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 66
+          "_rowIndex": 67
         }
       ]
     },
