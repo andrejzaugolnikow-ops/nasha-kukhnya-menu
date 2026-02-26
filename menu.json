@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-26T09:50:10.703Z",
+  "updatedAt": "2026-02-26T10:05:10.318Z",
   "sheets": {
     "Menu": {
-      "rows": 76,
+      "rows": 77,
       "data": [
         {
           "Категория": "Меню",
@@ -416,51 +416,57 @@
         },
         {
           "Категория": "Combo Menu",
+          "Название": "Combo №3",
+          "Цена (AED)": 29,
+          "_rowIndex": 70
+        },
+        {
+          "Категория": "Combo Menu",
           "Название": "Combo 5",
           "Цена (AED)": 39,
-          "_rowIndex": 70
+          "_rowIndex": 71
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 71
+          "_rowIndex": 72
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 72
+          "_rowIndex": 73
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 73
+          "_rowIndex": 74
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 74
+          "_rowIndex": 75
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 75
+          "_rowIndex": 76
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 76
+          "_rowIndex": 77
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 77
+          "_rowIndex": 78
         }
       ]
     },
