@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-02-27T16:05:10.764Z",
+  "updatedAt": "2026-02-27T16:20:10.058Z",
   "sheets": {
     "Menu": {
-      "rows": 72,
+      "rows": 71,
       "data": [
         {
           "Категория": "Меню",
@@ -385,58 +385,52 @@
           "_rowIndex": 64
         },
         {
-          "Категория": "Combo Menu",
-          "Название": "Iftar Combo",
-          "Цена (AED)": 39,
-          "_rowIndex": 65
-        },
-        {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 66
+          "_rowIndex": 65
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 67
+          "_rowIndex": 66
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 68
+          "_rowIndex": 67
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 69
+          "_rowIndex": 68
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 70
+          "_rowIndex": 69
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 71
+          "_rowIndex": 70
         },
         {
           "Категория": "Sauce",
           "Название": "Honey",
           "Цена (AED)": 3,
-          "_rowIndex": 72
+          "_rowIndex": 71
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 73
+          "_rowIndex": 72
         }
       ]
     },
