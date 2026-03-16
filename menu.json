@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-03-16T08:35:11.041Z",
+  "updatedAt": "2026-03-16T08:50:10.574Z",
   "sheets": {
     "Menu": {
-      "rows": 89,
+      "rows": 90,
       "data": [
         {
           "Категория": "Меню",
@@ -536,9 +536,15 @@
         },
         {
           "Категория": "Sauce",
-          "Название": "Ketchup",
+          "Название": "Condensed milk",
           "Цена (AED)": 3,
           "_rowIndex": 90
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Ketchup",
+          "Цена (AED)": 3,
+          "_rowIndex": 91
         }
       ]
     },
