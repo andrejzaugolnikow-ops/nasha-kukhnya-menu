@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-07T10:50:10.378Z",
+  "updatedAt": "2026-04-07T11:05:10.143Z",
   "sheets": {
     "Menu": {
       "rows": 64,
@@ -224,14 +224,14 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Steamed turkey cutlet with zucchini",
-          "Цена (AED)": 16,
+          "Название": "Sous-vide chicken breast",
+          "Цена (AED)": 18,
           "_rowIndex": 38
         },
         {
-          "Категория": "Beef dishes",
-          "Название": "Beef Stroganoff",
-          "Цена (AED)": 33,
+          "Категория": "Chicken dishes",
+          "Название": "Steamed turkey cutlet with zucchini",
+          "Цена (AED)": 16,
           "_rowIndex": 39
         },
         {
