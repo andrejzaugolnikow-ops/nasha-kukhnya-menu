@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-13T01:35:17.177Z",
+  "updatedAt": "2026-04-13T01:50:16.824Z",
   "sheets": {
     "Menu": {
-      "rows": 44,
+      "rows": 43,
       "data": [
         {
           "Категория": "Меню",
@@ -218,57 +218,51 @@
         },
         {
           "Категория": "Vareniki",
-          "Название": "Steamed Vareniki with cherries and apples",
-          "Цена (AED)": 22,
-          "_rowIndex": 37
-        },
-        {
-          "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 38
+          "_rowIndex": 37
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 39
+          "_rowIndex": 38
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 45
+          "_rowIndex": 44
         }
       ]
     },
