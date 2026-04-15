@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-15T13:35:12.068Z",
+  "updatedAt": "2026-04-15T13:50:10.561Z",
   "sheets": {
     "Menu": {
       "rows": 53,
@@ -74,20 +74,20 @@
         },
         {
           "Категория": "Side dishes",
+          "Название": "Buckwheat with mushrooms",
+          "Цена (AED)": 16,
+          "_rowIndex": 13
+        },
+        {
+          "Категория": "Side dishes",
           "Название": "Pasta with melted butter",
           "Цена (AED)": 12,
-          "_rowIndex": 13
+          "_rowIndex": 14
         },
         {
           "Категория": "Side dishes",
           "Название": "Basmati rice",
           "Цена (AED)": 8,
-          "_rowIndex": 14
-        },
-        {
-          "Категория": "Side dishes",
-          "Название": "Broccoli with thai chile",
-          "Цена (AED)": 16,
           "_rowIndex": 15
         },
         {
