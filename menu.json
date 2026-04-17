@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-17T07:50:11.698Z",
+  "updatedAt": "2026-04-17T08:05:13.794Z",
   "sheets": {
     "Menu": {
       "rows": 53,
@@ -188,7 +188,7 @@
         },
         {
           "Категория": "Fish and seafood dishes",
-          "Название": "Grilled salmon in teriyaki sauce",
+          "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
           "_rowIndex": 32
         },
