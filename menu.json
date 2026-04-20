@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-20T14:20:10.381Z",
+  "updatedAt": "2026-04-20T14:35:10.129Z",
   "sheets": {
     "Menu": {
-      "rows": 51,
+      "rows": 52,
       "data": [
         {
           "Категория": "Меню",
@@ -32,26 +32,26 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Caesar salad with grilled chicken",
-          "Цена (AED)": 18,
-          "_rowIndex": 6
-        },
-        {
-          "Категория": "Salads",
           "Название": "Vinaigrette salad",
           "Цена (AED)": 16,
-          "_rowIndex": 7
+          "_rowIndex": 6
         },
         {
           "Категория": "Salads",
           "Название": "House cabbage salad",
           "Цена (AED)": 12,
-          "_rowIndex": 8
+          "_rowIndex": 7
         },
         {
           "Категория": "Salads",
           "Название": "Tomato salad (Shakarob)",
           "Цена (AED)": 16,
+          "_rowIndex": 8
+        },
+        {
+          "Категория": "Soups",
+          "Название": "Chicken homemade noodle soup",
+          "Цена (AED)": 20,
           "_rowIndex": 9
         },
         {
@@ -224,93 +224,99 @@
         },
         {
           "Категория": "Combo Menu",
-          "Название": "Combo 5",
+          "Название": "Combo №2",
           "Цена (AED)": 39,
           "_rowIndex": 38
         },
         {
           "Категория": "Combo Menu",
-          "Название": "Combo 6",
-          "Цена (AED)": 19,
+          "Название": "Combo 5",
+          "Цена (AED)": 39,
           "_rowIndex": 39
         },
         {
-          "Категория": "Vareniki",
-          "Название": "Steamed Vareniki with potato",
+          "Категория": "Combo Menu",
+          "Название": "Combo 6",
           "Цена (AED)": 19,
           "_rowIndex": 40
         },
         {
           "Категория": "Vareniki",
+          "Название": "Steamed Vareniki with potato",
+          "Цена (AED)": 19,
+          "_rowIndex": 41
+        },
+        {
+          "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cherries and apples",
           "Цена (AED)": 22,
-          "_rowIndex": 41
+          "_rowIndex": 42
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 42
+          "_rowIndex": 43
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 43
+          "_rowIndex": 44
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 44
+          "_rowIndex": 45
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 45
+          "_rowIndex": 46
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 46
+          "_rowIndex": 47
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Steamed chicken cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 47
+          "_rowIndex": 48
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 48
+          "_rowIndex": 49
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 49
+          "_rowIndex": 50
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 50
+          "_rowIndex": 51
         },
         {
           "Категория": "Sauce",
           "Название": "Homemade jam",
           "Цена (AED)": 3,
-          "_rowIndex": 51
+          "_rowIndex": 52
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 52
+          "_rowIndex": 53
         }
       ]
     },
