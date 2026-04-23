@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-23T09:20:09.850Z",
+  "updatedAt": "2026-04-23T09:35:10.779Z",
   "sheets": {
     "Menu": {
       "rows": 60,
@@ -217,9 +217,9 @@
           "_rowIndex": 36
         },
         {
-          "Категория": "Chicken dishes",
-          "Название": "Grilled turkey breast in citrus marinade",
-          "Цена (AED)": 33,
+          "Категория": "Beef dishes",
+          "Название": "Beef meatballs in tomato sauce 3 piece",
+          "Цена (AED)": 27,
           "_rowIndex": 37
         },
         {
