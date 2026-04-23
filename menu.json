@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-23T10:05:10.960Z",
+  "updatedAt": "2026-04-23T10:20:10.355Z",
   "sheets": {
     "Menu": {
       "rows": 58,
@@ -188,32 +188,32 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Steamed chicken cutlets",
+          "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
           "_rowIndex": 32
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Chicken fried cutlets",
-          "Цена (AED)": 12,
-          "_rowIndex": 33
-        },
-        {
-          "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 34
+          "_rowIndex": 33
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
-          "_rowIndex": 35
+          "_rowIndex": 34
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef ribs in BBQ sauce",
           "Цена (AED)": 21,
+          "_rowIndex": 35
+        },
+        {
+          "Категория": "Fish and seafood dishes",
+          "Название": "Tempura white fish",
+          "Цена (AED)": 14,
           "_rowIndex": 36
         },
         {
@@ -272,8 +272,8 @@
         },
         {
           "Категория": "Combo Menu",
-          "Название": "Combo №2",
-          "Цена (AED)": 39,
+          "Название": "Combo №3",
+          "Цена (AED)": 29,
           "_rowIndex": 46
         },
         {
