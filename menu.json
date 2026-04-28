@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-04-28T09:35:10.615Z",
+  "updatedAt": "2026-04-28T09:50:10.625Z",
   "sheets": {
     "Menu": {
       "rows": 52,
@@ -164,7 +164,7 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Sous-vide chicken breast",
+          "Название": "Grilled chicken with rosemary",
           "Цена (AED)": 18,
           "_rowIndex": 28
         },
