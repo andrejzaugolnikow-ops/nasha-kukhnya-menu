@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-04T08:50:10.781Z",
+  "updatedAt": "2026-05-04T09:05:12.463Z",
   "sheets": {
     "Menu": {
-      "rows": 48,
+      "rows": 50,
       "data": [
         {
           "Категория": "Меню",
@@ -223,76 +223,88 @@
           "_rowIndex": 37
         },
         {
+          "Категория": "Combo Menu",
+          "Название": "Combo №1",
+          "Цена (AED)": 39,
+          "_rowIndex": 38
+        },
+        {
+          "Категория": "Combo Menu",
+          "Название": "Combo 6",
+          "Цена (AED)": 19,
+          "_rowIndex": 39
+        },
+        {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with potato",
           "Цена (AED)": 19,
-          "_rowIndex": 38
+          "_rowIndex": 40
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cherries and apples",
           "Цена (AED)": 22,
-          "_rowIndex": 39
+          "_rowIndex": 41
         },
         {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 40
+          "_rowIndex": 42
         },
         {
           "Категория": "Vareniki",
           "Название": "Pelmeni with beef",
           "Цена (AED)": 19.8,
-          "_rowIndex": 41
+          "_rowIndex": 43
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 42
+          "_rowIndex": 44
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 43
+          "_rowIndex": 45
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 44
+          "_rowIndex": 46
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 45
+          "_rowIndex": 47
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 46
+          "_rowIndex": 48
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 47
+          "_rowIndex": 49
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 48
+          "_rowIndex": 50
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 49
+          "_rowIndex": 51
         }
       ]
     },
