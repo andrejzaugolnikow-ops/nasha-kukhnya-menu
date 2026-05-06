@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-06T13:50:13.240Z",
+  "updatedAt": "2026-05-06T14:05:14.357Z",
   "sheets": {
     "Menu": {
-      "rows": 47,
+      "rows": 46,
       "data": [
         {
           "Категория": "Меню",
@@ -217,76 +217,70 @@
           "_rowIndex": 36
         },
         {
-          "Категория": "Combo Menu",
-          "Название": "Combo №1",
-          "Цена (AED)": 39,
-          "_rowIndex": 37
-        },
-        {
           "Категория": "Vareniki",
           "Название": "Steamed Vareniki with cottage cheese",
           "Цена (AED)": 28,
-          "_rowIndex": 38
+          "_rowIndex": 37
         },
         {
           "Категория": "Vareniki",
           "Название": "Pelmeni with beef",
           "Цена (AED)": 19.8,
-          "_rowIndex": 39
+          "_rowIndex": 38
         },
         {
           "Категория": "Pickles",
           "Название": "Sauerkraut",
           "Цена (AED)": 12,
-          "_rowIndex": 40
+          "_rowIndex": 39
         },
         {
           "Категория": "Pickles",
           "Название": "Grandma's dill pickles",
           "Цена (AED)": 12,
-          "_rowIndex": 41
+          "_rowIndex": 40
         },
         {
           "Категория": "Pickles",
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
-          "_rowIndex": 42
+          "_rowIndex": 41
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Chicken fried cutlets 4 pieces",
           "Цена (AED)": 48,
-          "_rowIndex": 43
+          "_rowIndex": 42
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Pancakes with minced meat 4 pieces",
           "Цена (AED)": 31,
-          "_rowIndex": 44
+          "_rowIndex": 43
         },
         {
           "Категория": "⁠Ready frozen food",
           "Название": "Frozen Syrniki 9 pieces",
           "Цена (AED)": 69,
-          "_rowIndex": 45
+          "_rowIndex": 44
         },
         {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 46
+          "_rowIndex": 45
         },
         {
           "Категория": "Sauce",
           "Название": "Condensed milk",
           "Цена (AED)": 3,
-          "_rowIndex": 47
+          "_rowIndex": 46
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 48
+          "_rowIndex": 47
         }
       ]
     },
