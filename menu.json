@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-06T08:50:11.437Z",
+  "updatedAt": "2026-05-06T09:05:09.898Z",
   "sheets": {
     "Menu": {
       "rows": 52,
@@ -92,116 +92,116 @@
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with chicken and mushrooms 1 pcs",
+          "Название": "Pirozhok with meat 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 16
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with potato 1 pcs",
+          "Название": "Pirozhok with chicken and mushrooms 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 17
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cabbage 1 pcs",
+          "Название": "Pirozhok with potato 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 18
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with egg and green onion 1 pcs",
+          "Название": "Pirozhok with cabbage 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 19
         },
         {
           "Категория": "Bakery",
-          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Название": "Pirozhok with egg and green onion 1 pcs",
           "Цена (AED)": 6,
           "_rowIndex": 20
         },
         {
           "Категория": "Bakery",
+          "Название": "Pirozhok with cherry and apple 1 pcs",
+          "Цена (AED)": 6,
+          "_rowIndex": 21
+        },
+        {
+          "Категория": "Bakery",
           "Название": "Homemade cottage cheese Vatrushka",
           "Цена (AED)": 12,
-          "_rowIndex": 21
+          "_rowIndex": 22
         },
         {
           "Категория": "Bread",
           "Название": "Ciabatta 1 pcs",
           "Цена (AED)": 4,
-          "_rowIndex": 22
+          "_rowIndex": 23
         },
         {
           "Категория": "Bread",
           "Название": "Small bun 1 pcs",
           "Цена (AED)": 2,
-          "_rowIndex": 23
+          "_rowIndex": 24
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken Kiev",
           "Цена (AED)": 15,
-          "_rowIndex": 24
+          "_rowIndex": 25
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 25
+          "_rowIndex": 26
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 26
+          "_rowIndex": 27
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled chicken with rosemary",
           "Цена (AED)": 18,
-          "_rowIndex": 27
+          "_rowIndex": 28
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
-          "_rowIndex": 28
+          "_rowIndex": 29
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Steamed turkey cutlet with zucchini",
           "Цена (AED)": 16,
-          "_rowIndex": 29
+          "_rowIndex": 30
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Grilled turkey breast in citrus marinade",
           "Цена (AED)": 33,
-          "_rowIndex": 30
+          "_rowIndex": 31
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef Stroganoff",
           "Цена (AED)": 33,
-          "_rowIndex": 31
+          "_rowIndex": 32
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef meatballs in tomato sauce 3 piece",
           "Цена (AED)": 27,
-          "_rowIndex": 32
+          "_rowIndex": 33
         },
         {
           "Категория": "Fish and seafood dishes",
           "Название": "Crab cake 3 piece",
           "Цена (AED)": 36,
-          "_rowIndex": 33
-        },
-        {
-          "Категория": "Fish and seafood dishes",
-          "Название": "Tempura white fish",
-          "Цена (AED)": 14,
           "_rowIndex": 34
         },
         {
