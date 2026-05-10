@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-10T09:05:10.482Z",
+  "updatedAt": "2026-05-10T09:20:11.061Z",
   "sheets": {
     "Menu": {
       "rows": 46,
@@ -260,8 +260,8 @@
         },
         {
           "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
           "_rowIndex": 44
         },
         {
