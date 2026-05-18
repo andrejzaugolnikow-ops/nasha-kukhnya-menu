@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-18T12:05:21.518Z",
+  "updatedAt": "2026-05-18T12:20:13.194Z",
   "sheets": {
     "Menu": {
       "rows": 48,
@@ -50,8 +50,8 @@
         },
         {
           "Категория": "Salads",
-          "Название": "Vinaigrette salad",
-          "Цена (AED)": 16,
+          "Название": "House cabbage salad",
+          "Цена (AED)": 12,
           "_rowIndex": 9
         },
         {
