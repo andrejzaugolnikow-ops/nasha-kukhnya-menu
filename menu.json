@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-20T07:35:12.987Z",
+  "updatedAt": "2026-05-20T07:52:01.472Z",
   "sheets": {
     "Menu": {
-      "rows": 44,
+      "rows": 35,
       "data": [
         {
           "Категория": "Меню",
@@ -215,60 +215,6 @@
           "Название": "Still water",
           "Цена (AED)": 3,
           "_rowIndex": 36
-        },
-        {
-          "Категория": "Combo Menu",
-          "Название": "Combo №1",
-          "Цена (AED)": 39,
-          "_rowIndex": 37
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 38
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Chicken fried cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 39
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Steamed chicken cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 40
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Pancakes with minced meat 4 pieces",
-          "Цена (AED)": 31,
-          "_rowIndex": 41
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
-          "_rowIndex": 42
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Sour cream",
-          "Цена (AED)": 3,
-          "_rowIndex": 43
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Condensed milk",
-          "Цена (AED)": 3,
-          "_rowIndex": 44
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Ketchup",
-          "Цена (AED)": 3,
-          "_rowIndex": 45
         }
       ]
     },
