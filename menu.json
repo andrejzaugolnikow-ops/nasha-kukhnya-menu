@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-20T08:20:13.995Z",
+  "updatedAt": "2026-05-20T08:35:13.754Z",
   "sheets": {
     "Menu": {
       "rows": 46,
@@ -134,38 +134,38 @@
         },
         {
           "Категория": "Chicken dishes",
-          "Название": "Chicken Kiev",
-          "Цена (AED)": 15,
-          "_rowIndex": 23
-        },
-        {
-          "Категория": "Chicken dishes",
           "Название": "Steamed chicken cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 24
+          "_rowIndex": 23
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken fried cutlets",
           "Цена (AED)": 12,
-          "_rowIndex": 25
+          "_rowIndex": 24
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Roasted chicken thighs in honey and lemon",
           "Цена (AED)": 18,
-          "_rowIndex": 26
+          "_rowIndex": 25
         },
         {
           "Категория": "Chicken dishes",
           "Название": "Chicken breast baked with spinach and cheese",
           "Цена (AED)": 12,
-          "_rowIndex": 27
+          "_rowIndex": 26
         },
         {
           "Категория": "Beef dishes",
           "Название": "Beef Stroganoff",
           "Цена (AED)": 33,
+          "_rowIndex": 27
+        },
+        {
+          "Категория": "Beef dishes",
+          "Название": "Beef meatballs in tomato sauce 3 piece",
+          "Цена (AED)": 27,
           "_rowIndex": 28
         },
         {
