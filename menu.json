@@ -1,7 +1,7 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-05-21T15:05:10.523Z",
+  "updatedAt": "2026-05-21T15:20:10.730Z",
   "sheets": {
     "Menu": {
       "rows": 53,
@@ -296,14 +296,14 @@
         },
         {
           "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Pancakes with minced meat 4 pieces",
-          "Цена (AED)": 31,
+          "Название": "Frozen Chicken fried cutlets 4 pieces",
+          "Цена (AED)": 48,
           "_rowIndex": 50
         },
         {
           "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
+          "Название": "Frozen Pancakes with minced meat 4 pieces",
+          "Цена (AED)": 31,
           "_rowIndex": 51
         },
         {
