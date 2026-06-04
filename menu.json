@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-06-04T10:05:09.829Z",
+  "updatedAt": "2026-06-04T10:20:10.536Z",
   "sheets": {
     "Menu": {
-      "rows": 48,
+      "rows": 54,
       "data": [
         {
           "Категория": "Меню",
@@ -293,6 +293,42 @@
           "Название": "Korean carrot salad",
           "Цена (AED)": 12,
           "_rowIndex": 49
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Chicken fried cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 50
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Steamed chicken cutlets 4 pieces",
+          "Цена (AED)": 48,
+          "_rowIndex": 51
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Pancakes with minced meat 4 pieces",
+          "Цена (AED)": 31,
+          "_rowIndex": 52
+        },
+        {
+          "Категория": "⁠Ready frozen food",
+          "Название": "Frozen Syrniki 9 pieces",
+          "Цена (AED)": 69,
+          "_rowIndex": 53
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Sour cream",
+          "Цена (AED)": 3,
+          "_rowIndex": 54
+        },
+        {
+          "Категория": "Sauce",
+          "Название": "Ketchup",
+          "Цена (AED)": 3,
+          "_rowIndex": 55
         }
       ]
     },
