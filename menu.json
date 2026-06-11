@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-06-11T14:05:10.091Z",
+  "updatedAt": "2026-06-11T14:20:12.097Z",
   "sheets": {
     "Menu": {
-      "rows": 54,
+      "rows": 44,
       "data": [
         {
           "Категория": "Меню",
@@ -269,66 +269,6 @@
           "Название": "Pelmeni with fish",
           "Цена (AED)": 24,
           "_rowIndex": 45
-        },
-        {
-          "Категория": "Vareniki",
-          "Название": "Pelmeni with chicken",
-          "Цена (AED)": 18,
-          "_rowIndex": 46
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Sauerkraut",
-          "Цена (AED)": 12,
-          "_rowIndex": 47
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Grandma's dill pickles",
-          "Цена (AED)": 12,
-          "_rowIndex": 48
-        },
-        {
-          "Категория": "Pickles",
-          "Название": "Korean carrot salad",
-          "Цена (AED)": 12,
-          "_rowIndex": 49
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Chicken fried cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 50
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Steamed chicken cutlets 4 pieces",
-          "Цена (AED)": 48,
-          "_rowIndex": 51
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Pancakes with minced meat 4 pieces",
-          "Цена (AED)": 31,
-          "_rowIndex": 52
-        },
-        {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
-          "_rowIndex": 53
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Sour cream",
-          "Цена (AED)": 3,
-          "_rowIndex": 54
-        },
-        {
-          "Категория": "Sauce",
-          "Название": "Ketchup",
-          "Цена (AED)": 3,
-          "_rowIndex": 55
         }
       ]
     },
