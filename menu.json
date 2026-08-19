@@ -1,10 +1,10 @@
 {
   "ok": true,
   "spreadsheetId": "1LMcpaJeYDANvdMHdApd6LR0DdOEUlrtDQCp6PfvvwUM",
-  "updatedAt": "2026-08-19T18:35:10.964Z",
+  "updatedAt": "2026-08-19T18:50:10.968Z",
   "sheets": {
     "Menu": {
-      "rows": 55,
+      "rows": 54,
       "data": [
         {
           "Категория": "Меню",
@@ -319,22 +319,16 @@
           "_rowIndex": 53
         },
         {
-          "Категория": "⁠Ready frozen food",
-          "Название": "Frozen Syrniki 9 pieces",
-          "Цена (AED)": 69,
-          "_rowIndex": 54
-        },
-        {
           "Категория": "Sauce",
           "Название": "Sour cream",
           "Цена (AED)": 3,
-          "_rowIndex": 55
+          "_rowIndex": 54
         },
         {
           "Категория": "Sauce",
           "Название": "Ketchup",
           "Цена (AED)": 3,
-          "_rowIndex": 56
+          "_rowIndex": 55
         }
       ]
     },
